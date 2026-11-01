@@ -1,0 +1,2643 @@
+<arsopodatki verzija="1.5">
+<vir>Agencija RS za okolje</vir>
+<predlagan_zajem>8:05 CET</predlagan_zajem>
+<predlagan_zajem_perioda>24 ur</predlagan_zajem_perioda>
+<datum_priprave>2025-06-06 08:00</datum_priprave>
+<postaja sifra="1060" wgs84_dolzina="15.9953" wgs84_sirina="46.68124" kota_0="202.35">
+<reka>Mura</reka>
+<merilno_mesto>Gornja Radgona</merilno_mesto>
+<ime_kratko>Mura - Gor. Radgona I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>105</vodostaj>
+<pretok>137</pretok>
+<prvi_vv_pretok>600.0</prvi_vv_pretok>
+<drugi_vv_pretok>905.0</drugi_vv_pretok>
+<tretji_vv_pretok>1180.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>16.5</temp_vode>
+</postaja>
+<postaja sifra="1070" wgs84_dolzina="16.05448" wgs84_sirina="46.64839" kota_0="193.65">
+<reka>Mura</reka>
+<merilno_mesto>Petanjci</merilno_mesto>
+<ime_kratko>Mura - Petanjci</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>155</vodostaj>
+<pretok>151</pretok>
+<prvi_vv_pretok>650.0</prvi_vv_pretok>
+<drugi_vv_pretok>965.0</drugi_vv_pretok>
+<tretji_vv_pretok>1250.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>15.9</temp_vode>
+</postaja>
+<postaja sifra="1100" wgs84_dolzina="16.02129" wgs84_sirina="46.71097" kota_0="206.0">
+<reka>Kučnica</reka>
+<merilno_mesto>Cankova</merilno_mesto>
+<ime_kratko>Kučnica - Cankova</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>74</vodostaj>
+<pretok>0.011</pretok>
+<prvi_vv_pretok>10.0</prvi_vv_pretok>
+<drugi_vv_pretok>21.0</drugi_vv_pretok>
+<tretji_vv_pretok>34.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>17.4</temp_vode>
+</postaja>
+<postaja sifra="1140" wgs84_dolzina="16.23188" wgs84_sirina="46.51866" kota_0="169.37">
+<reka>Ščavnica</reka>
+<merilno_mesto>Pristava</merilno_mesto>
+<ime_kratko>Ščavnica - Pristava I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>45</vodostaj>
+<pretok>1.6</pretok>
+<prvi_vv_pretok>36.0</prvi_vv_pretok>
+<drugi_vv_pretok>50.0</drugi_vv_pretok>
+<tretji_vv_pretok>64.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>19.9</temp_vode>
+</postaja>
+<postaja sifra="1165" wgs84_dolzina="16.02741" wgs84_sirina="46.81007" kota_0="232.19">
+<reka>Ledava</reka>
+<merilno_mesto>Nuskova</merilno_mesto>
+<ime_kratko>Ledava - Nuskova</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>51</vodostaj>
+<pretok>0.041</pretok>
+<prvi_vv_pretok>19.0</prvi_vv_pretok>
+<drugi_vv_pretok>31.0</drugi_vv_pretok>
+<tretji_vv_pretok>48.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>17.6</temp_vode>
+</postaja>
+<postaja sifra="1220" wgs84_dolzina="16.13713" wgs84_sirina="46.67805" kota_0="191.36">
+<reka>Ledava</reka>
+<merilno_mesto>Polana</merilno_mesto>
+<ime_kratko>Ledava - Polana I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>52</vodostaj>
+<pretok>0.734</pretok>
+<prvi_vv_pretok>31.5</prvi_vv_pretok>
+<drugi_vv_pretok>45.0</drugi_vv_pretok>
+<tretji_vv_pretok>65.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>21.3</temp_vode>
+</postaja>
+<postaja sifra="1260" wgs84_dolzina="16.47767" wgs84_sirina="46.5353" kota_0="154.31">
+<reka>Ledava</reka>
+<merilno_mesto>Čentiba</merilno_mesto>
+<ime_kratko>Ledava - Čentiba</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>78</vodostaj>
+<pretok>1.78</pretok>
+<prvi_vv_pretok>55.0</prvi_vv_pretok>
+<drugi_vv_pretok>72.0</drugi_vv_pretok>
+<tretji_vv_pretok>88.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode/>
+</postaja>
+<postaja sifra="1300" wgs84_dolzina="16.18614" wgs84_sirina="46.68639" kota_0="190.54">
+<reka>Martjanski potok</reka>
+<merilno_mesto>Martjanci</merilno_mesto>
+<ime_kratko>Martjanski p. - Martjanci</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>42</vodostaj>
+<pretok>0.023</pretok>
+<prvi_vv_pretok>7.4</prvi_vv_pretok>
+<drugi_vv_pretok>12.8</drugi_vv_pretok>
+<tretji_vv_pretok>21.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>17.8</temp_vode>
+</postaja>
+<postaja sifra="1335" wgs84_dolzina="16.31217" wgs84_sirina="46.76996" kota_0="229.47">
+<reka>Ivanjševski potok</reka>
+<merilno_mesto>Središče</merilno_mesto>
+<ime_kratko>Ivanjševski p. - Središče</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>19</vodostaj>
+<pretok>0.005</pretok>
+<prvi_vv_pretok>2.0</prvi_vv_pretok>
+<drugi_vv_pretok>3.5</drugi_vv_pretok>
+<tretji_vv_pretok>4.9</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>14.9</temp_vode>
+</postaja>
+<postaja sifra="1355" wgs84_dolzina="16.333" wgs84_sirina="46.81417" kota_0="224.49">
+<reka>Velika Krka</reka>
+<merilno_mesto>Hodoš</merilno_mesto>
+<ime_kratko>Velika Krka - Hodoš I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>9</vodostaj>
+<pretok>0.036</pretok>
+<prvi_vv_pretok>21.0</prvi_vv_pretok>
+<drugi_vv_pretok>37.0</drugi_vv_pretok>
+<tretji_vv_pretok>50.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>17.1</temp_vode>
+</postaja>
+<postaja sifra="2005" wgs84_dolzina="14.9839" wgs84_sirina="46.59786" kota_0="333.58">
+<reka>Drava</reka>
+<merilno_mesto>Črneče</merilno_mesto>
+<ime_kratko>Drava - Črneče</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>553</vodostaj>
+<pretok>439</pretok>
+<prvi_vv_pretok>860.0</prvi_vv_pretok>
+<drugi_vv_pretok>1300.0</drugi_vv_pretok>
+<tretji_vv_pretok>1500.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>16.7</temp_vode>
+</postaja>
+<postaja sifra="2110" wgs84_dolzina="15.86753" wgs84_sirina="46.41689" kota_0="214.65">
+<reka>Drava</reka>
+<merilno_mesto>Ptuj</merilno_mesto>
+<ime_kratko>Drava - Ptuj</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>497</vodostaj>
+<pretok>452</pretok>
+<prvi_vv_pretok>1300.0</prvi_vv_pretok>
+<drugi_vv_pretok>1580.0</drugi_vv_pretok>
+<tretji_vv_pretok>1700.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>17.9</temp_vode>
+</postaja>
+<postaja sifra="2150" wgs84_dolzina="15.99615" wgs84_sirina="46.37097" kota_0="201.41">
+<reka>Drava</reka>
+<merilno_mesto>Borl</merilno_mesto>
+<ime_kratko>Drava - Borl I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>68</vodostaj>
+<pretok/>
+<prvi_vv_pretok>500.0</prvi_vv_pretok>
+<drugi_vv_pretok>1200.0</drugi_vv_pretok>
+<tretji_vv_pretok>1500.0</tretji_vv_pretok>
+<pretok_znacilni/>
+<temp_vode/>
+</postaja>
+<postaja sifra="2160" wgs84_dolzina="16.03676" wgs84_sirina="46.38831" kota_0="197.86">
+<reka>Drava</reka>
+<merilno_mesto>Zavrč</merilno_mesto>
+<ime_kratko>Drava - Zavrč</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>15</vodostaj>
+<pretok>17.8</pretok>
+<prvi_vv_pretok>500.0</prvi_vv_pretok>
+<drugi_vv_pretok>1200.0</drugi_vv_pretok>
+<tretji_vv_pretok>1500.0</tretji_vv_pretok>
+<pretok_znacilni>!! brez neg. znacilnih vrednosti !!</pretok_znacilni>
+<temp_vode>18.1</temp_vode>
+</postaja>
+<postaja sifra="2220" wgs84_dolzina="14.84842" wgs84_sirina="46.4704" kota_0="573.45">
+<reka>Meža</reka>
+<merilno_mesto>Črna</merilno_mesto>
+<ime_kratko>Meža - Črna</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>50</vodostaj>
+<pretok/>
+<prvi_vv_pretok>30.0</prvi_vv_pretok>
+<drugi_vv_pretok>39.0</drugi_vv_pretok>
+<tretji_vv_pretok>60.0</tretji_vv_pretok>
+<pretok_znacilni/>
+<temp_vode>11.5</temp_vode>
+</postaja>
+<postaja sifra="2250" wgs84_dolzina="15.02593" wgs84_sirina="46.57774" kota_0="334.0">
+<reka>Meža</reka>
+<merilno_mesto>Otiški Vrh</merilno_mesto>
+<ime_kratko>Meža - Otiški Vrh I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>53</vodostaj>
+<pretok>6.41</pretok>
+<prvi_vv_pretok>89.0</prvi_vv_pretok>
+<drugi_vv_pretok>136.0</drugi_vv_pretok>
+<tretji_vv_pretok>316.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>13.6</temp_vode>
+</postaja>
+<postaja sifra="2372" wgs84_dolzina="15.1475" wgs84_sirina="46.45663" kota_0="507.59">
+<reka>Mislinja</reka>
+<merilno_mesto>Dovže</merilno_mesto>
+<ime_kratko>Mislinja - Dovže II</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>34</vodostaj>
+<pretok/>
+<prvi_vv_pretok>30.0</prvi_vv_pretok>
+<drugi_vv_pretok>40.0</drugi_vv_pretok>
+<tretji_vv_pretok>70.0</tretji_vv_pretok>
+<pretok_znacilni/>
+<temp_vode>12.4</temp_vode>
+</postaja>
+<postaja sifra="2390" wgs84_dolzina="15.03731" wgs84_sirina="46.5675" kota_0="343.75">
+<reka>Mislinja</reka>
+<merilno_mesto>Otiški Vrh</merilno_mesto>
+<ime_kratko>Mislinja - Otiški Vrh I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>98</vodostaj>
+<pretok>2.59</pretok>
+<prvi_vv_pretok>70.0</prvi_vv_pretok>
+<drugi_vv_pretok>100.0</drugi_vv_pretok>
+<tretji_vv_pretok>205.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>14</temp_vode>
+</postaja>
+<postaja sifra="2420" wgs84_dolzina="15.0725" wgs84_sirina="46.50438" kota_0="404.86">
+<reka>Suhodolnica</reka>
+<merilno_mesto>Stari trg</merilno_mesto>
+<ime_kratko>Suhodolnica - Stari trg I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>18</vodostaj>
+<pretok>0.479</pretok>
+<prvi_vv_pretok>31.0</prvi_vv_pretok>
+<drugi_vv_pretok>38.0</drugi_vv_pretok>
+<tretji_vv_pretok>51.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>12.6</temp_vode>
+</postaja>
+<postaja sifra="2432" wgs84_dolzina="15.16373" wgs84_sirina="46.61217" kota_0="325.757">
+<reka>Bistrica</reka>
+<merilno_mesto>Muta</merilno_mesto>
+<ime_kratko>Bistrica - Muta I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>38</vodostaj>
+<pretok>1.27</pretok>
+<prvi_vv_pretok>30.0</prvi_vv_pretok>
+<drugi_vv_pretok>39.0</drugi_vv_pretok>
+<tretji_vv_pretok>49.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>14.4</temp_vode>
+</postaja>
+<postaja sifra="2530" wgs84_dolzina="15.42343" wgs84_sirina="46.55886" kota_0="296.0">
+<reka>Radoljna</reka>
+<merilno_mesto>Ruta</merilno_mesto>
+<ime_kratko>Radoljna - Ruta</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>114</vodostaj>
+<pretok>1.27</pretok>
+<prvi_vv_pretok>30.0</prvi_vv_pretok>
+<drugi_vv_pretok>65.0</drugi_vv_pretok>
+<tretji_vv_pretok>77.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>13.8</temp_vode>
+</postaja>
+<postaja sifra="2600" wgs84_dolzina="15.38334" wgs84_sirina="46.37985" kota_0="405.07">
+<reka>Dravinja</reka>
+<merilno_mesto>Zreče</merilno_mesto>
+<ime_kratko>Dravinja - Zreče</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>76</vodostaj>
+<pretok>0.404</pretok>
+<prvi_vv_pretok>9.0</prvi_vv_pretok>
+<drugi_vv_pretok>15.0</drugi_vv_pretok>
+<tretji_vv_pretok>24.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode/>
+</postaja>
+<postaja sifra="2620" wgs84_dolzina="15.49369" wgs84_sirina="46.30155" kota_0="267.42">
+<reka>Dravinja</reka>
+<merilno_mesto>Loče</merilno_mesto>
+<ime_kratko>Dravinja - Loče</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>136</vodostaj>
+<pretok>1.31</pretok>
+<prvi_vv_pretok>30.0</prvi_vv_pretok>
+<drugi_vv_pretok>56.0</drugi_vv_pretok>
+<tretji_vv_pretok>69.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>17.2</temp_vode>
+</postaja>
+<postaja sifra="2640" wgs84_dolzina="15.67044" wgs84_sirina="46.31929" kota_0="240.38">
+<reka>Dravinja</reka>
+<merilno_mesto>Makole</merilno_mesto>
+<ime_kratko>Dravinja - Makole</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>21</vodostaj>
+<pretok>1.51</pretok>
+<prvi_vv_pretok>47.0</prvi_vv_pretok>
+<drugi_vv_pretok>80.0</drugi_vv_pretok>
+<tretji_vv_pretok>140.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>19</temp_vode>
+</postaja>
+<postaja sifra="2652" wgs84_dolzina="15.90298" wgs84_sirina="46.36833" kota_0="209.24">
+<reka>Dravinja</reka>
+<merilno_mesto>Videm</merilno_mesto>
+<ime_kratko>Dravinja - Videm</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>105</vodostaj>
+<pretok>3.09</pretok>
+<prvi_vv_pretok>120.0</prvi_vv_pretok>
+<drugi_vv_pretok>190.0</drugi_vv_pretok>
+<tretji_vv_pretok>240.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>20.2</temp_vode>
+</postaja>
+<postaja sifra="2667" wgs84_dolzina="15.48773" wgs84_sirina="46.33931" kota_0="283.13">
+<reka>Oplotnica</reka>
+<merilno_mesto>Perovec</merilno_mesto>
+<ime_kratko>Oplotnica - Perovec</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>78</vodostaj>
+<pretok>0.602</pretok>
+<prvi_vv_pretok>32.0</prvi_vv_pretok>
+<drugi_vv_pretok>45.0</drugi_vv_pretok>
+<tretji_vv_pretok>55.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>15.5</temp_vode>
+</postaja>
+<postaja sifra="2693" wgs84_dolzina="15.65075" wgs84_sirina="46.33706" kota_0="241.87">
+<reka>Ložnica</reka>
+<merilno_mesto>Spodnja Ložnica</merilno_mesto>
+<ime_kratko>Ložnica - Sp. Ložnica I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>84</vodostaj>
+<pretok>0.349</pretok>
+<prvi_vv_pretok>50.0</prvi_vv_pretok>
+<drugi_vv_pretok>75.0</drugi_vv_pretok>
+<tretji_vv_pretok>90.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>20</temp_vode>
+</postaja>
+<postaja sifra="2719" wgs84_dolzina="15.87839" wgs84_sirina="46.33244" kota_0="223.24">
+<reka>Rogatnica</reka>
+<merilno_mesto>Podlehnik</merilno_mesto>
+<ime_kratko>Rogatnica - Podlehnik I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>89</vodostaj>
+<pretok>0.069</pretok>
+<prvi_vv_pretok>22.0</prvi_vv_pretok>
+<drugi_vv_pretok>29.0</drugi_vv_pretok>
+<tretji_vv_pretok>45.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>18.8</temp_vode>
+</postaja>
+<postaja sifra="2754" wgs84_dolzina="15.87801" wgs84_sirina="46.36367" kota_0="214.07">
+<reka>Polskava</reka>
+<merilno_mesto>Tržec</merilno_mesto>
+<ime_kratko>Polskava - Tržec</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>94</vodostaj>
+<pretok>0.895</pretok>
+<prvi_vv_pretok>37.0</prvi_vv_pretok>
+<drugi_vv_pretok>49.0</drugi_vv_pretok>
+<tretji_vv_pretok>62.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>18.2</temp_vode>
+</postaja>
+<postaja sifra="2830" wgs84_dolzina="15.68138" wgs84_sirina="46.59953" kota_0="250.27">
+<reka>Pesnica</reka>
+<merilno_mesto>Ranca</merilno_mesto>
+<ime_kratko>Pesnica - Ranca</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>43</vodostaj>
+<pretok>0.036</pretok>
+<prvi_vv_pretok>20.0</prvi_vv_pretok>
+<drugi_vv_pretok>41.0</drugi_vv_pretok>
+<tretji_vv_pretok>57.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>21.7</temp_vode>
+</postaja>
+<postaja sifra="2880" wgs84_dolzina="15.86867" wgs84_sirina="46.55677" kota_0="225.46">
+<reka>Pesnica</reka>
+<merilno_mesto>Gočova</merilno_mesto>
+<ime_kratko>Pesnica - Gočova</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>96</vodostaj>
+<pretok>0.149</pretok>
+<prvi_vv_pretok>35.0</prvi_vv_pretok>
+<drugi_vv_pretok>55.0</drugi_vv_pretok>
+<tretji_vv_pretok>70.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>20.4</temp_vode>
+</postaja>
+<postaja sifra="2900" wgs84_dolzina="16.03396" wgs84_sirina="46.41413" kota_0="201.85">
+<reka>Pesnica</reka>
+<merilno_mesto>Zamušani</merilno_mesto>
+<ime_kratko>Pesnica - Zamušani I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>88</vodostaj>
+<pretok>0.838</pretok>
+<prvi_vv_pretok>70.0</prvi_vv_pretok>
+<drugi_vv_pretok>100.0</drugi_vv_pretok>
+<tretji_vv_pretok>120.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>18</temp_vode>
+</postaja>
+<postaja sifra="3014" wgs84_dolzina="13.78542" wgs84_sirina="46.48927" kota_0="794.1">
+<reka>Sava Dolinka</reka>
+<merilno_mesto>Kranjska Gora</merilno_mesto>
+<ime_kratko>Sava Dolinka - Kranjska Gora I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>144</vodostaj>
+<pretok>1.58</pretok>
+<prvi_vv_pretok>18.0</prvi_vv_pretok>
+<drugi_vv_pretok>24.0</drugi_vv_pretok>
+<tretji_vv_pretok>60.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>8.1</temp_vode>
+</postaja>
+<postaja sifra="3060" wgs84_dolzina="14.05433" wgs84_sirina="46.43385" kota_0="564.81">
+<reka>Sava Dolinka</reka>
+<merilno_mesto>Jesenice</merilno_mesto>
+<ime_kratko>Sava Dolinka - Jesenice</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>88</vodostaj>
+<pretok>11.3</pretok>
+<prvi_vv_pretok>135.0</prvi_vv_pretok>
+<drugi_vv_pretok>165.0</drugi_vv_pretok>
+<tretji_vv_pretok>223.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>9.1</temp_vode>
+</postaja>
+<postaja sifra="3080" wgs84_dolzina="14.13463" wgs84_sirina="46.36755" kota_0="428.05">
+<reka>Sava Dolinka</reka>
+<merilno_mesto>Blejski most</merilno_mesto>
+<ime_kratko>Sava Dolinka - Blejski most</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>65</vodostaj>
+<pretok>17.4</pretok>
+<prvi_vv_pretok>210.0</prvi_vv_pretok>
+<drugi_vv_pretok>315.0</drugi_vv_pretok>
+<tretji_vv_pretok>430.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>11.2</temp_vode>
+</postaja>
+<postaja sifra="3180" wgs84_dolzina="14.08573" wgs84_sirina="46.3935" kota_0="566.2">
+<reka>Radovna</reka>
+<merilno_mesto>Podhom</merilno_mesto>
+<ime_kratko>Radovna - Podhom</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj/>
+<pretok/>
+<prvi_vv_pretok>70.0</prvi_vv_pretok>
+<drugi_vv_pretok>110.0</drugi_vv_pretok>
+<tretji_vv_pretok>148.0</tretji_vv_pretok>
+<pretok_znacilni/>
+<temp_vode/>
+</postaja>
+<postaja sifra="3200" wgs84_dolzina="13.88655" wgs84_sirina="46.27836" kota_0="525.04">
+<reka>Sava Bohinjka</reka>
+<merilno_mesto>Sveti Janez</merilno_mesto>
+<ime_kratko>Sava Bohinjka - Sveti Janez</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>130</vodostaj>
+<pretok>7.05</pretok>
+<prvi_vv_pretok>110.0</prvi_vv_pretok>
+<drugi_vv_pretok>128.0</drugi_vv_pretok>
+<tretji_vv_pretok>173.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>15.7</temp_vode>
+</postaja>
+<postaja sifra="3250" wgs84_dolzina="14.14191" wgs84_sirina="46.3419" kota_0="414.0">
+<reka>Sava Bohinjka</reka>
+<merilno_mesto>Bodešče</merilno_mesto>
+<ime_kratko>Sava Bohinjka - Bodešče</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>80</vodostaj>
+<pretok>11.2</pretok>
+<prvi_vv_pretok>230.0</prvi_vv_pretok>
+<drugi_vv_pretok>330.0</drugi_vv_pretok>
+<tretji_vv_pretok>430.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>13.1</temp_vode>
+</postaja>
+<postaja sifra="3260" wgs84_dolzina="13.82955" wgs84_sirina="46.28097" kota_0="527.43">
+<reka>Savica</reka>
+<merilno_mesto>Ukanc</merilno_mesto>
+<ime_kratko>Savica - Ukanc</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>65</vodostaj>
+<pretok>3.82</pretok>
+<prvi_vv_pretok>94.0</prvi_vv_pretok>
+<drugi_vv_pretok>120.0</drugi_vv_pretok>
+<tretji_vv_pretok>146.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>5.9</temp_vode>
+</postaja>
+<postaja sifra="3280" wgs84_dolzina="13.86487" wgs84_sirina="46.27886" kota_0="526.0">
+<reka>Bohinjsko jezero</reka>
+<merilno_mesto>Sveti Duh</merilno_mesto>
+<ime_kratko>Bohinjsko jezero - Sveti Duh</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>38</vodostaj>
+<prvi_vv_vodostaj>300</prvi_vv_vodostaj>
+<drugi_vv_vodostaj>330</drugi_vv_vodostaj>
+<tretji_vv_vodostaj>410</tretji_vv_vodostaj>
+<vodostaj_znacilni>običajni vodostaj</vodostaj_znacilni>
+<temp_vode>15.7</temp_vode>
+</postaja>
+<postaja sifra="3300" wgs84_dolzina="13.88926" wgs84_sirina="46.28283" kota_0="527.2">
+<reka>Mostnica</reka>
+<merilno_mesto>Stara Fužina</merilno_mesto>
+<ime_kratko>Mostnica - Stara Fužina II</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>119</vodostaj>
+<pretok>1.87</pretok>
+<prvi_vv_pretok>60.0</prvi_vv_pretok>
+<drugi_vv_pretok>80.0</drugi_vv_pretok>
+<tretji_vv_pretok>121.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>8.8</temp_vode>
+</postaja>
+<postaja sifra="3320" wgs84_dolzina="13.95005" wgs84_sirina="46.27359" kota_0="504.45">
+<reka>Bistrica</reka>
+<merilno_mesto>Bohinjska Bistrica</merilno_mesto>
+<ime_kratko>Bistrica - Bohinjska Bistrica</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>48</vodostaj>
+<pretok>1.25</pretok>
+<prvi_vv_pretok>80.0</prvi_vv_pretok>
+<drugi_vv_pretok>117.0</drugi_vv_pretok>
+<tretji_vv_pretok>132.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>7.8</temp_vode>
+</postaja>
+<postaja sifra="3350" wgs84_dolzina="14.09926" wgs84_sirina="46.35999" kota_0="475.53">
+<reka>Blejsko jezero</reka>
+<merilno_mesto>Mlino</merilno_mesto>
+<ime_kratko>Blejsko jezero - Mlino</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>42</vodostaj>
+<prvi_vv_vodostaj>100</prvi_vv_vodostaj>
+<drugi_vv_vodostaj>120</drugi_vv_vodostaj>
+<tretji_vv_vodostaj>140</tretji_vv_vodostaj>
+<vodostaj_znacilni>mali vodostaj</vodostaj_znacilni>
+<temp_vode>20.1</temp_vode>
+</postaja>
+<postaja sifra="3370" wgs84_dolzina="14.0999" wgs84_sirina="46.35697" kota_0="468.09">
+<reka>Natega</reka>
+<merilno_mesto>Mlino</merilno_mesto>
+<ime_kratko>Natega - Mlino</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>11</vodostaj>
+<prvi_vv_vodostaj/>
+<drugi_vv_vodostaj/>
+<tretji_vv_vodostaj/>
+<vodostaj_znacilni/>
+</postaja>
+<postaja sifra="3400" wgs84_dolzina="14.09998" wgs84_sirina="46.35713" kota_0="467.57">
+<reka>Jezernica</reka>
+<merilno_mesto>Mlino</merilno_mesto>
+<ime_kratko>Jezernica - Mlino I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>42</vodostaj>
+<pretok>0.289</pretok>
+<prvi_vv_pretok>3.0</prvi_vv_pretok>
+<drugi_vv_pretok>4.2</drugi_vv_pretok>
+<tretji_vv_pretok>5.2</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>19.8</temp_vode>
+</postaja>
+<postaja sifra="3420" wgs84_dolzina="14.16535" wgs84_sirina="46.33993" kota_0="408.18">
+<reka>Sava</reka>
+<merilno_mesto>Radovljica</merilno_mesto>
+<ime_kratko>Sava - Radovljica I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>67</vodostaj>
+<pretok>36.2</pretok>
+<prvi_vv_pretok>500.0</prvi_vv_pretok>
+<drugi_vv_pretok>650.0</drugi_vv_pretok>
+<tretji_vv_pretok>750.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>12.4</temp_vode>
+</postaja>
+<postaja sifra="3465" wgs84_dolzina="14.3196" wgs84_sirina="46.25588" kota_0="355.95">
+<reka>Sava</reka>
+<merilno_mesto>Okroglo</merilno_mesto>
+<ime_kratko>Sava - Okroglo</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>120</vodostaj>
+<pretok>53.3</pretok>
+<prvi_vv_pretok>600.0</prvi_vv_pretok>
+<drugi_vv_pretok>858.0</drugi_vv_pretok>
+<tretji_vv_pretok>1000.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>12</temp_vode>
+</postaja>
+<postaja sifra="3530" wgs84_dolzina="14.44047" wgs84_sirina="46.12252" kota_0="300.29">
+<reka>Sava</reka>
+<merilno_mesto>Medno</merilno_mesto>
+<ime_kratko>Sava - Medno</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>141</vodostaj>
+<pretok>72.2</pretok>
+<prvi_vv_pretok>900.0</prvi_vv_pretok>
+<drugi_vv_pretok>1000.0</drugi_vv_pretok>
+<tretji_vv_pretok>1300.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>14.6</temp_vode>
+</postaja>
+<postaja sifra="3570" wgs84_dolzina="14.58251" wgs84_sirina="46.08396" kota_0="268.16">
+<reka>Sava</reka>
+<merilno_mesto>Šentjakob</merilno_mesto>
+<ime_kratko>Sava - Šentjakob</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>283</vodostaj>
+<pretok>49.3</pretok>
+<prvi_vv_pretok>930.0</prvi_vv_pretok>
+<drugi_vv_pretok>1170.0</drugi_vv_pretok>
+<tretji_vv_pretok>1300.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>15</temp_vode>
+</postaja>
+<postaja sifra="3660" wgs84_dolzina="14.82877" wgs84_sirina="46.05684" kota_0="230.66">
+<reka>Sava</reka>
+<merilno_mesto>Litija</merilno_mesto>
+<ime_kratko>Sava - Litija</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>66</vodostaj>
+<pretok>93.3</pretok>
+<prvi_vv_pretok>1000.0</prvi_vv_pretok>
+<drugi_vv_pretok>1514.0</drugi_vv_pretok>
+<tretji_vv_pretok>1900.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>15.6</temp_vode>
+</postaja>
+<postaja sifra="3725" wgs84_dolzina="15.09063" wgs84_sirina="46.12181" kota_0="193.94">
+<reka>Sava</reka>
+<merilno_mesto>Hrastnik</merilno_mesto>
+<ime_kratko>Sava - Hrastnik</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>250</vodostaj>
+<pretok>122</pretok>
+<prvi_vv_pretok>1000.0</prvi_vv_pretok>
+<drugi_vv_pretok>1600.0</drugi_vv_pretok>
+<tretji_vv_pretok>2061.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>16.6</temp_vode>
+</postaja>
+<postaja sifra="3850" wgs84_dolzina="15.60992" wgs84_sirina="45.89313" kota_0="137.32">
+<reka>Sava</reka>
+<merilno_mesto>Čatež</merilno_mesto>
+<ime_kratko>Sava - Čatež I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>134</vodostaj>
+<pretok>149</pretok>
+<prvi_vv_pretok>1684.0</prvi_vv_pretok>
+<drugi_vv_pretok>2580.0</drugi_vv_pretok>
+<tretji_vv_pretok>3000.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>21.1</temp_vode>
+</postaja>
+<postaja sifra="3900" wgs84_dolzina="15.69253" wgs84_sirina="45.86031" kota_0="129.48">
+<reka>Sava</reka>
+<merilno_mesto>Jesenice na Dolenjskem</merilno_mesto>
+<ime_kratko>Sava - Jesenice na Dol.</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>95</vodostaj>
+<pretok/>
+<prvi_vv_pretok>1750.0</prvi_vv_pretok>
+<drugi_vv_pretok>2699.0</drugi_vv_pretok>
+<tretji_vv_pretok>3200.0</tretji_vv_pretok>
+<pretok_znacilni/>
+<temp_vode>22</temp_vode>
+</postaja>
+<postaja sifra="4025" wgs84_dolzina="14.25823" wgs84_sirina="46.28841" kota_0="375.17">
+<reka>Lipnica</reka>
+<merilno_mesto>Ovsiše</merilno_mesto>
+<ime_kratko>Lipnica - Ovsiše II</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>107</vodostaj>
+<pretok>0.998</pretok>
+<prvi_vv_pretok>48.0</prvi_vv_pretok>
+<drugi_vv_pretok>67.0</drugi_vv_pretok>
+<tretji_vv_pretok>85.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>11.1</temp_vode>
+</postaja>
+<postaja sifra="4050" wgs84_dolzina="14.29964" wgs84_sirina="46.3578" kota_0="488.76">
+<reka>Tržiška Bistrica</reka>
+<merilno_mesto>Preska</merilno_mesto>
+<ime_kratko>Tržiška Bistrica - Preska</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>72</vodostaj>
+<pretok>3.5</pretok>
+<prvi_vv_pretok>60.0</prvi_vv_pretok>
+<drugi_vv_pretok>95.0</drugi_vv_pretok>
+<tretji_vv_pretok>130.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>8.4</temp_vode>
+</postaja>
+<postaja sifra="4095" wgs84_dolzina="14.27046" wgs84_sirina="46.41365" kota_0="744.51">
+<reka>Mošenik</reka>
+<merilno_mesto>Lajb</merilno_mesto>
+<ime_kratko>Mošenik - Lajb</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj/>
+<prvi_vv_vodostaj/>
+<drugi_vv_vodostaj/>
+<tretji_vv_vodostaj/>
+<vodostaj_znacilni/>
+<temp_vode/>
+</postaja>
+<postaja sifra="4120" wgs84_dolzina="14.49892" wgs84_sirina="46.30595" kota_0="523.0">
+<reka>Kokra</reka>
+<merilno_mesto>Kokra</merilno_mesto>
+<ime_kratko>Kokra - Kokra I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>68</vodostaj>
+<pretok>2.53</pretok>
+<prvi_vv_pretok>90.0</prvi_vv_pretok>
+<drugi_vv_pretok>120.0</drugi_vv_pretok>
+<tretji_vv_pretok>150.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>9.6</temp_vode>
+</postaja>
+<postaja sifra="4155" wgs84_dolzina="14.35961" wgs84_sirina="46.24319" kota_0="357.0">
+<reka>Kokra</reka>
+<merilno_mesto>Kranj</merilno_mesto>
+<ime_kratko>Kokra - Kranj II</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>75</vodostaj>
+<pretok>3.05</pretok>
+<prvi_vv_pretok>140.0</prvi_vv_pretok>
+<drugi_vv_pretok>180.0</drugi_vv_pretok>
+<tretji_vv_pretok>225.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>13.2</temp_vode>
+</postaja>
+<postaja sifra="4200" wgs84_dolzina="14.32607" wgs84_sirina="46.16204" kota_0="329.47">
+<reka>Sora</reka>
+<merilno_mesto>Suha</merilno_mesto>
+<ime_kratko>Sora - Suha I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>98</vodostaj>
+<pretok/>
+<prvi_vv_pretok>320.0</prvi_vv_pretok>
+<drugi_vv_pretok>489.0</drugi_vv_pretok>
+<tretji_vv_pretok>557.0</tretji_vv_pretok>
+<pretok_znacilni/>
+<temp_vode>15.7</temp_vode>
+</postaja>
+<postaja sifra="4209" wgs84_dolzina="14.41333" wgs84_sirina="46.13924" kota_0="306.69">
+<reka>Sora</reka>
+<merilno_mesto>Medvode</merilno_mesto>
+<ime_kratko>Sora - Medvode II</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>98</vodostaj>
+<pretok>8.45</pretok>
+<prvi_vv_pretok>370.0</prvi_vv_pretok>
+<drugi_vv_pretok>540.0</drugi_vv_pretok>
+<tretji_vv_pretok>650.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>14.7</temp_vode>
+</postaja>
+<postaja sifra="4222" wgs84_dolzina="14.10683" wgs84_sirina="46.04357" kota_0="474.77">
+<reka>Poljanska Sora</reka>
+<merilno_mesto>Žiri</merilno_mesto>
+<ime_kratko>Poljanska Sora - Žiri III</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>75</vodostaj>
+<pretok>0.488</pretok>
+<prvi_vv_pretok>98.0</prvi_vv_pretok>
+<drugi_vv_pretok>130.0</drugi_vv_pretok>
+<tretji_vv_pretok>162.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>13.4</temp_vode>
+</postaja>
+<postaja sifra="4230" wgs84_dolzina="14.29021" wgs84_sirina="46.15304" kota_0="343.33">
+<reka>Poljanska Sora</reka>
+<merilno_mesto>Zminec</merilno_mesto>
+<ime_kratko>Poljanska Sora - Zminec</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>122</vodostaj>
+<pretok>4.34</pretok>
+<prvi_vv_pretok>140.0</prvi_vv_pretok>
+<drugi_vv_pretok>190.0</drugi_vv_pretok>
+<tretji_vv_pretok>260.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>14.5</temp_vode>
+</postaja>
+<postaja sifra="4270" wgs84_dolzina="14.16186" wgs84_sirina="46.22192" kota_0="446.37">
+<reka>Selška Sora</reka>
+<merilno_mesto>Železniki</merilno_mesto>
+<ime_kratko>Selška Sora - Železniki</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>150</vodostaj>
+<pretok>1.64</pretok>
+<prvi_vv_pretok>82.0</prvi_vv_pretok>
+<drugi_vv_pretok>120.0</drugi_vv_pretok>
+<tretji_vv_pretok>220.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>11.9</temp_vode>
+</postaja>
+<postaja sifra="4298" wgs84_dolzina="14.28517" wgs84_sirina="46.17217" kota_0="358.26">
+<reka>Selška Sora</reka>
+<merilno_mesto>Vešter</merilno_mesto>
+<ime_kratko>Selška Sora - Vešter</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>84</vodostaj>
+<pretok>3.05</pretok>
+<prvi_vv_pretok>140.0</prvi_vv_pretok>
+<drugi_vv_pretok>220.0</drugi_vv_pretok>
+<tretji_vv_pretok>335.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>13.6</temp_vode>
+</postaja>
+<postaja sifra="4360" wgs84_dolzina="14.59018" wgs84_sirina="46.32759" kota_0="588.95">
+<reka>Kamniška Bistrica</reka>
+<merilno_mesto>Kamniška Bistrica</merilno_mesto>
+<ime_kratko>Kamniška Bistrica - Kamniška Bistrica</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<temp_vode/>
+</postaja>
+<postaja sifra="4400" wgs84_dolzina="14.61314" wgs84_sirina="46.22404" kota_0="370.65">
+<reka>Kamniška Bistrica</reka>
+<merilno_mesto>Kamnik</merilno_mesto>
+<ime_kratko>Kamniška Bistrica - Kamnik I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>71</vodostaj>
+<pretok>8.2</pretok>
+<prvi_vv_pretok>140.0</prvi_vv_pretok>
+<drugi_vv_pretok>183.0</drugi_vv_pretok>
+<tretji_vv_pretok>224.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>8.6</temp_vode>
+</postaja>
+<postaja sifra="4430" wgs84_dolzina="14.60428" wgs84_sirina="46.14768" kota_0="301.25">
+<reka>Kamniška Bistrica</reka>
+<merilno_mesto>Vir</merilno_mesto>
+<ime_kratko>Kamniška Bistrica - Vir</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>136</vodostaj>
+<pretok>4.95</pretok>
+<prvi_vv_pretok>186.0</prvi_vv_pretok>
+<drugi_vv_pretok>240.0</drugi_vv_pretok>
+<tretji_vv_pretok>297.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>9.2</temp_vode>
+</postaja>
+<postaja sifra="4445" wgs84_dolzina="14.61585" wgs84_sirina="46.10388" kota_0="274.4">
+<reka>Kamniška Bistrica</reka>
+<merilno_mesto>Bišče</merilno_mesto>
+<ime_kratko>Kamniška Bistrica - Bišče</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>111</vodostaj>
+<pretok/>
+<prvi_vv_pretok>190.0</prvi_vv_pretok>
+<drugi_vv_pretok>250.0</drugi_vv_pretok>
+<tretji_vv_pretok>390.0</tretji_vv_pretok>
+<pretok_znacilni/>
+<temp_vode>13.3</temp_vode>
+</postaja>
+<postaja sifra="4480" wgs84_dolzina="14.62477" wgs84_sirina="46.23286" kota_0="379.9">
+<reka>Nevljica</reka>
+<merilno_mesto>Nevlje</merilno_mesto>
+<ime_kratko>Nevljica - Nevlje I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>87</vodostaj>
+<pretok>0.446</pretok>
+<prvi_vv_pretok>31.0</prvi_vv_pretok>
+<drugi_vv_pretok>44.0</drugi_vv_pretok>
+<tretji_vv_pretok>68.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>14</temp_vode>
+</postaja>
+<postaja sifra="4515" wgs84_dolzina="14.61653" wgs84_sirina="46.14393" kota_0="299.17">
+<reka>Rača</reka>
+<merilno_mesto>Vir</merilno_mesto>
+<ime_kratko>Rača - Vir</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>45</vodostaj>
+<pretok>0.921</pretok>
+<prvi_vv_pretok>42.0</prvi_vv_pretok>
+<drugi_vv_pretok>61.0</drugi_vv_pretok>
+<tretji_vv_pretok>80.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>16.5</temp_vode>
+</postaja>
+<postaja sifra="4520" wgs84_dolzina="14.60931" wgs84_sirina="46.14205" kota_0="297.49">
+<reka>Rača</reka>
+<merilno_mesto>Podrečje</merilno_mesto>
+<ime_kratko>Rača - Podrečje</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>34</vodostaj>
+<pretok>1.4</pretok>
+<prvi_vv_pretok>45.0</prvi_vv_pretok>
+<drugi_vv_pretok>61.0</drugi_vv_pretok>
+<tretji_vv_pretok>80.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>16.8</temp_vode>
+</postaja>
+<postaja sifra="4570" wgs84_dolzina="14.56263" wgs84_sirina="46.17373" kota_0="320.27">
+<reka>Pšata</reka>
+<merilno_mesto>Topole</merilno_mesto>
+<ime_kratko>Pšata - Topole</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>68</vodostaj>
+<pretok>0.323</pretok>
+<prvi_vv_pretok>55.0</prvi_vv_pretok>
+<drugi_vv_pretok>58.0</drugi_vv_pretok>
+<tretji_vv_pretok>65.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>17.1</temp_vode>
+</postaja>
+<postaja sifra="4575" wgs84_dolzina="14.5603" wgs84_sirina="46.14348" kota_0="301.43">
+<reka>Pšata</reka>
+<merilno_mesto>Loka</merilno_mesto>
+<ime_kratko>Pšata - Loka</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>21</vodostaj>
+<pretok>0.338</pretok>
+<prvi_vv_pretok>14.1</prvi_vv_pretok>
+<drugi_vv_pretok>20.0</drugi_vv_pretok>
+<tretji_vv_pretok>30.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>17.2</temp_vode>
+</postaja>
+<postaja sifra="4626" wgs84_dolzina="14.99631" wgs84_sirina="46.12758" kota_0="232.22">
+<reka>Medija</reka>
+<merilno_mesto>Zagorje</merilno_mesto>
+<ime_kratko>Medija - Zagorje II</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>24</vodostaj>
+<pretok>1.07</pretok>
+<prvi_vv_pretok>52.0</prvi_vv_pretok>
+<drugi_vv_pretok>90.0</drugi_vv_pretok>
+<tretji_vv_pretok>125.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>15.4</temp_vode>
+</postaja>
+<postaja sifra="4650" wgs84_dolzina="15.13475" wgs84_sirina="46.06301" kota_0="256.54">
+<reka>Sopota</reka>
+<merilno_mesto>Žebnik</merilno_mesto>
+<ime_kratko>Sopota - Žebnik</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>33</vodostaj>
+<pretok>0.724</pretok>
+<prvi_vv_pretok>40.0</prvi_vv_pretok>
+<drugi_vv_pretok>54.0</drugi_vv_pretok>
+<tretji_vv_pretok>76.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>13.8</temp_vode>
+</postaja>
+<postaja sifra="4671" wgs84_dolzina="15.13739" wgs84_sirina="45.96003" kota_0="228.56">
+<reka>Mirna</reka>
+<merilno_mesto>Martinja vas</merilno_mesto>
+<ime_kratko>Mirna - Martinja vas II</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>94</vodostaj>
+<pretok>0.979</pretok>
+<prvi_vv_pretok>55.0</prvi_vv_pretok>
+<drugi_vv_pretok>90.0</drugi_vv_pretok>
+<tretji_vv_pretok>130.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>15.9</temp_vode>
+</postaja>
+<postaja sifra="4695" wgs84_dolzina="15.23011" wgs84_sirina="45.98853" kota_0="208.59">
+<reka>Mirna</reka>
+<merilno_mesto>Jelovec</merilno_mesto>
+<ime_kratko>Mirna - Jelovec</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>63</vodostaj>
+<pretok>1.57</pretok>
+<prvi_vv_pretok>75.0</prvi_vv_pretok>
+<drugi_vv_pretok>125.0</drugi_vv_pretok>
+<tretji_vv_pretok>155.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>16.6</temp_vode>
+</postaja>
+<postaja sifra="4706" wgs84_dolzina="15.29758" wgs84_sirina="46.02579" kota_0="199.91">
+<reka>Sevnična</reka>
+<merilno_mesto>Metni Vrh</merilno_mesto>
+<ime_kratko>Sevnična - Metni Vrh</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>36</vodostaj>
+<pretok>0.245</pretok>
+<prvi_vv_pretok>19.0</prvi_vv_pretok>
+<drugi_vv_pretok>35.0</drugi_vv_pretok>
+<tretji_vv_pretok>54.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>15.2</temp_vode>
+</postaja>
+<postaja sifra="4710" wgs84_dolzina="15.6997" wgs84_sirina="46.2231" kota_0="218.89">
+<reka>Sotla</reka>
+<merilno_mesto>Rogatec</merilno_mesto>
+<ime_kratko>Sotla - Rogatec</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>36</vodostaj>
+<pretok>0.142</pretok>
+<prvi_vv_pretok>22.0</prvi_vv_pretok>
+<drugi_vv_pretok>44.0</drugi_vv_pretok>
+<tretji_vv_pretok>77.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>17.8</temp_vode>
+</postaja>
+<postaja sifra="4750" wgs84_dolzina="15.70426" wgs84_sirina="45.92091" kota_0="140.02">
+<reka>Sotla</reka>
+<merilno_mesto>Rakovec</merilno_mesto>
+<ime_kratko>Sotla - Rakovec</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>25</vodostaj>
+<pretok>1.51</pretok>
+<prvi_vv_pretok>85.0</prvi_vv_pretok>
+<drugi_vv_pretok>115.0</drugi_vv_pretok>
+<tretji_vv_pretok>130.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>20.6</temp_vode>
+</postaja>
+<postaja sifra="4770" wgs84_dolzina="15.6013" wgs84_sirina="46.17288" kota_0="192.56">
+<reka>Mestinjščica</reka>
+<merilno_mesto>Sodna vas</merilno_mesto>
+<ime_kratko>Mestinjščica - Sodna vas II</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>202</vodostaj>
+<pretok>0.214</pretok>
+<prvi_vv_pretok>42.0</prvi_vv_pretok>
+<drugi_vv_pretok>55.0</drugi_vv_pretok>
+<tretji_vv_pretok>62.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>19.3</temp_vode>
+</postaja>
+<postaja sifra="4791" wgs84_dolzina="15.65143" wgs84_sirina="46.04827" kota_0="190.28">
+<reka>Bistrica</reka>
+<merilno_mesto>Zagaj</merilno_mesto>
+<ime_kratko>Bistrica - Zagaj II</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>58</vodostaj>
+<pretok>0.411</pretok>
+<prvi_vv_pretok>46.0</prvi_vv_pretok>
+<drugi_vv_pretok>85.0</drugi_vv_pretok>
+<tretji_vv_pretok>108.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>16.3</temp_vode>
+</postaja>
+<postaja sifra="4820" wgs84_dolzina="14.85173" wgs84_sirina="45.4639" kota_0="219.19">
+<reka>Kolpa</reka>
+<merilno_mesto>Petrina</merilno_mesto>
+<ime_kratko>Kolpa - Petrina</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>66</vodostaj>
+<pretok>5.18</pretok>
+<prvi_vv_pretok>360.0</prvi_vv_pretok>
+<drugi_vv_pretok>440.0</drugi_vv_pretok>
+<tretji_vv_pretok>610.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>13.4</temp_vode>
+</postaja>
+<postaja sifra="4828" wgs84_dolzina="15.07553" wgs84_sirina="45.4847" kota_0="180.94">
+<reka>Kolpa</reka>
+<merilno_mesto>Sodevci</merilno_mesto>
+<ime_kratko>Kolpa - Sodevci</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>70</vodostaj>
+<pretok>9.87</pretok>
+<prvi_vv_pretok>500.0</prvi_vv_pretok>
+<drugi_vv_pretok>720.0</drugi_vv_pretok>
+<tretji_vv_pretok>840.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>15.1</temp_vode>
+</postaja>
+<postaja sifra="4860" wgs84_dolzina="15.32297" wgs84_sirina="45.63473" kota_0="127.01">
+<reka>Kolpa</reka>
+<merilno_mesto>Metlika</merilno_mesto>
+<ime_kratko>Kolpa - Metlika</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>35</vodostaj>
+<pretok>23.2</pretok>
+<prvi_vv_pretok>650.0</prvi_vv_pretok>
+<drugi_vv_pretok>850.0</drugi_vv_pretok>
+<tretji_vv_pretok>1050.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>19</temp_vode>
+</postaja>
+<postaja sifra="4960" wgs84_dolzina="14.88858" wgs84_sirina="45.60495" kota_0="453.73">
+<reka>Rinža</reka>
+<merilno_mesto>Livold</merilno_mesto>
+<ime_kratko>Rinža - Livold I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>81</vodostaj>
+<pretok>0.017</pretok>
+<prvi_vv_pretok>25.0</prvi_vv_pretok>
+<drugi_vv_pretok>38.0</drugi_vv_pretok>
+<tretji_vv_pretok>52.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>12.1</temp_vode>
+</postaja>
+<postaja sifra="4965" wgs84_dolzina="14.96213" wgs84_sirina="45.51278" kota_0="195.64">
+<reka>Bilpa</reka>
+<merilno_mesto>Spodnja Bilpa</merilno_mesto>
+<ime_kratko>Bilpa - Sp. Bilpa</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj/>
+<prvi_vv_vodostaj/>
+<drugi_vv_vodostaj/>
+<tretji_vv_vodostaj/>
+<vodostaj_znacilni/>
+<pretok/>
+<temp_vode/>
+</postaja>
+<postaja sifra="4969" wgs84_dolzina="15.2452" wgs84_sirina="45.61351" kota_0="133.64">
+<reka>Lahinja</reka>
+<merilno_mesto>Gradac</merilno_mesto>
+<ime_kratko>Lahinja - Gradac I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>112</vodostaj>
+<pretok>1.66</pretok>
+<prvi_vv_pretok>55.0</prvi_vv_pretok>
+<drugi_vv_pretok>95.0</drugi_vv_pretok>
+<tretji_vv_pretok>110.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>17.2</temp_vode>
+</postaja>
+<postaja sifra="4986" wgs84_dolzina="15.2261" wgs84_sirina="45.63244" kota_0="134.37">
+<reka>Krupa</reka>
+<merilno_mesto>Dolenjce</merilno_mesto>
+<ime_kratko>Krupa - Dolenjce II</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj/>
+<prvi_vv_vodostaj/>
+<drugi_vv_vodostaj/>
+<tretji_vv_vodostaj/>
+<vodostaj_znacilni/>
+<pretok/>
+<temp_vode/>
+</postaja>
+<postaja sifra="5030" wgs84_dolzina="14.30012" wgs84_sirina="45.96621" kota_0="285.93">
+<reka>Ljubljanica</reka>
+<merilno_mesto>Vrhnika</merilno_mesto>
+<ime_kratko>Ljubljanica - Vrhnika</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>87</vodostaj>
+<pretok>6.63</pretok>
+<prvi_vv_pretok>93.0</prvi_vv_pretok>
+<drugi_vv_pretok>100.0</drugi_vv_pretok>
+<tretji_vv_pretok>120.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>12.5</temp_vode>
+</postaja>
+<postaja sifra="5040" wgs84_dolzina="14.35879" wgs84_sirina="45.96544" kota_0="285.54">
+<reka>Ljubljanica</reka>
+<merilno_mesto>Kamin</merilno_mesto>
+<ime_kratko>Ljubljanica - Kamin</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>53</vodostaj>
+<prvi_vv_vodostaj>255</prvi_vv_vodostaj>
+<drugi_vv_vodostaj>350</drugi_vv_vodostaj>
+<tretji_vv_vodostaj>415</tretji_vv_vodostaj>
+<vodostaj_znacilni>običajni vodostaj</vodostaj_znacilni>
+<temp_vode>13.3</temp_vode>
+</postaja>
+<postaja sifra="5078" wgs84_dolzina="14.54443" wgs84_sirina="46.05542" kota_0="281.32">
+<reka>Ljubljanica</reka>
+<merilno_mesto>Moste</merilno_mesto>
+<ime_kratko>Ljubljanica - Moste I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>46</vodostaj>
+<pretok>21.1</pretok>
+<prvi_vv_pretok>170.0</prvi_vv_pretok>
+<drugi_vv_pretok>273.0</drugi_vv_pretok>
+<tretji_vv_pretok>358.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>15.2</temp_vode>
+</postaja>
+<postaja sifra="5240" wgs84_dolzina="14.30863" wgs84_sirina="45.95736" kota_0="286.38">
+<reka>Ljubija</reka>
+<merilno_mesto>Verd</merilno_mesto>
+<ime_kratko>Ljubija - Verd I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>164</vodostaj>
+<pretok>4.95</pretok>
+<prvi_vv_pretok>22.5</prvi_vv_pretok>
+<drugi_vv_pretok>23.0</drugi_vv_pretok>
+<tretji_vv_pretok>24.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>13.3</temp_vode>
+</postaja>
+<postaja sifra="5270" wgs84_dolzina="14.33919" wgs84_sirina="45.94981" kota_0="286.76">
+<reka>Bistra</reka>
+<merilno_mesto>Bistra</merilno_mesto>
+<ime_kratko>Bistra - Bistra I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>123</vodostaj>
+<pretok>6.44</pretok>
+<prvi_vv_pretok>16.8</prvi_vv_pretok>
+<drugi_vv_pretok>19.3</drugi_vv_pretok>
+<tretji_vv_pretok>20.2</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>13.5</temp_vode>
+</postaja>
+<postaja sifra="5330" wgs84_dolzina="14.36974" wgs84_sirina="45.91631" kota_0="295.42">
+<reka>Borovniščica</reka>
+<merilno_mesto>Borovnica</merilno_mesto>
+<ime_kratko>Borovniščica - Borovnica</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>52</vodostaj>
+<pretok>0.395</pretok>
+<prvi_vv_pretok>35.0</prvi_vv_pretok>
+<drugi_vv_pretok>43.0</drugi_vv_pretok>
+<tretji_vv_pretok>82.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>13.1</temp_vode>
+</postaja>
+<postaja sifra="5425" wgs84_dolzina="14.51465" wgs84_sirina="45.93629" kota_0="323.15">
+<reka>Iška</reka>
+<merilno_mesto>Iška vas</merilno_mesto>
+<ime_kratko>Iška - Iška vas</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>162</vodostaj>
+<pretok>0.558</pretok>
+<prvi_vv_pretok>40.0</prvi_vv_pretok>
+<drugi_vv_pretok>55.0</drugi_vv_pretok>
+<tretji_vv_pretok>65.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>14.3</temp_vode>
+</postaja>
+<postaja sifra="5440" wgs84_dolzina="14.5346" wgs84_sirina="45.9574" kota_0="287.71">
+<reka>Ižica</reka>
+<merilno_mesto>Ig</merilno_mesto>
+<ime_kratko>Ižica - Ig</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>192</vodostaj>
+<pretok>1.03</pretok>
+<prvi_vv_pretok>12.0</prvi_vv_pretok>
+<drugi_vv_pretok>21.0</drugi_vv_pretok>
+<tretji_vv_pretok>26.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>12.7</temp_vode>
+</postaja>
+<postaja sifra="5479" wgs84_dolzina="14.44643" wgs84_sirina="46.04514" kota_0="296.75">
+<reka>Gradaščica</reka>
+<merilno_mesto>Bokalce</merilno_mesto>
+<ime_kratko>Gradaščica - Bokalce</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>58</vodostaj>
+<pretok>2.01</pretok>
+<prvi_vv_pretok>80.0</prvi_vv_pretok>
+<drugi_vv_pretok>130.0</drugi_vv_pretok>
+<tretji_vv_pretok>170.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>15.2</temp_vode>
+</postaja>
+<postaja sifra="5500" wgs84_dolzina="14.34487" wgs84_sirina="46.06224" kota_0="341.16">
+<reka>Gradaščica</reka>
+<merilno_mesto>Dvor</merilno_mesto>
+<ime_kratko>Gradaščica - Dvor</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>80</vodostaj>
+<pretok>0.703</pretok>
+<prvi_vv_pretok>40.0</prvi_vv_pretok>
+<drugi_vv_pretok>46.0</drugi_vv_pretok>
+<tretji_vv_pretok>60.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>12.7</temp_vode>
+</postaja>
+<postaja sifra="5540" wgs84_dolzina="14.43778" wgs84_sirina="46.04807" kota_0="298.45">
+<reka>Šujica</reka>
+<merilno_mesto>Razori</merilno_mesto>
+<ime_kratko>Šujica - Razori</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>32</vodostaj>
+<pretok>0.393</pretok>
+<prvi_vv_pretok>25.0</prvi_vv_pretok>
+<drugi_vv_pretok>50.0</drugi_vv_pretok>
+<tretji_vv_pretok>61.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>16.4</temp_vode>
+</postaja>
+<postaja sifra="5580" wgs84_dolzina="14.50509" wgs84_sirina="45.70451" kota_0="577.137">
+<reka>Veliki Obrh</reka>
+<merilno_mesto>Vrhnika pri Ložu</merilno_mesto>
+<ime_kratko>Veliki Obrh - Vrhnika pri Ložu</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj/>
+<prvi_vv_vodostaj/>
+<drugi_vv_vodostaj/>
+<tretji_vv_vodostaj/>
+<vodostaj_znacilni/>
+<pretok/>
+<temp_vode/>
+</postaja>
+<postaja sifra="5670" wgs84_dolzina="14.40504" wgs84_sirina="45.72832" kota_0="547.25">
+<reka>Stržen</reka>
+<merilno_mesto>Gorenje Jezero</merilno_mesto>
+<ime_kratko>Stržen - Gorenje Jezero</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>132</vodostaj>
+<prvi_vv_vodostaj>320</prvi_vv_vodostaj>
+<drugi_vv_vodostaj>385</drugi_vv_vodostaj>
+<tretji_vv_vodostaj>485</tretji_vv_vodostaj>
+<vodostaj_znacilni>običajni vodostaj</vodostaj_znacilni>
+<temp_vode>10.6</temp_vode>
+</postaja>
+<postaja sifra="5680" wgs84_dolzina="14.36133" wgs84_sirina="45.76555" kota_0="545.556">
+<reka>Stržen</reka>
+<merilno_mesto>Dolenje Jezero</merilno_mesto>
+<ime_kratko>Stržen - Dolenje Jezero</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>294</vodostaj>
+<prvi_vv_vodostaj>485</prvi_vv_vodostaj>
+<drugi_vv_vodostaj>550</drugi_vv_vodostaj>
+<tretji_vv_vodostaj>650</tretji_vv_vodostaj>
+<vodostaj_znacilni>običajni vodostaj</vodostaj_znacilni>
+<temp_vode>22.3</temp_vode>
+</postaja>
+<postaja sifra="5770" wgs84_dolzina="14.36476" wgs84_sirina="45.79388" kota_0="559.583">
+<reka>Cerkniščica</reka>
+<merilno_mesto>Cerknica</merilno_mesto>
+<ime_kratko>Cerkniščica - Cerknica I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>193</vodostaj>
+<pretok>0.469</pretok>
+<prvi_vv_pretok>16.0</prvi_vv_pretok>
+<drugi_vv_pretok>30.0</drugi_vv_pretok>
+<tretji_vv_pretok>60.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>13.5</temp_vode>
+</postaja>
+<postaja sifra="5800" wgs84_dolzina="14.18676" wgs84_sirina="45.73082" kota_0="519.82">
+<reka>Pivka</reka>
+<merilno_mesto>Prestranek</merilno_mesto>
+<ime_kratko>Pivka - Prestranek</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj/>
+<pretok/>
+<prvi_vv_pretok>17.0</prvi_vv_pretok>
+<drugi_vv_pretok>38.0</drugi_vv_pretok>
+<tretji_vv_pretok>55.0</tretji_vv_pretok>
+<pretok_znacilni/>
+<temp_vode/>
+</postaja>
+<postaja sifra="5820" wgs84_dolzina="14.20318" wgs84_sirina="45.78231" kota_0="511.09">
+<reka>Pivka</reka>
+<merilno_mesto>Postojnska jama</merilno_mesto>
+<ime_kratko>Pivka - Postojnska jama</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>94</vodostaj>
+<prvi_vv_vodostaj>600</prvi_vv_vodostaj>
+<drugi_vv_vodostaj>700</drugi_vv_vodostaj>
+<tretji_vv_vodostaj>800</tretji_vv_vodostaj>
+<vodostaj_znacilni>običajni vodostaj</vodostaj_znacilni>
+<temp_vode>17.6</temp_vode>
+</postaja>
+<postaja sifra="5840" wgs84_dolzina="14.18042" wgs84_sirina="45.78035" kota_0="516.17">
+<reka>Nanoščica</reka>
+<merilno_mesto>Mali Otok</merilno_mesto>
+<ime_kratko>Nanoščica - Mali Otok</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>90</vodostaj>
+<pretok>0.081</pretok>
+<prvi_vv_pretok>18.3</prvi_vv_pretok>
+<drugi_vv_pretok>20.8</drugi_vv_pretok>
+<tretji_vv_pretok>22.6</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>17.1</temp_vode>
+</postaja>
+<postaja sifra="5880" wgs84_dolzina="14.26375" wgs84_sirina="45.82864" kota_0="445.0">
+<reka>Unica</reka>
+<merilno_mesto>Hasberg</merilno_mesto>
+<ime_kratko>Unica - Hasberg</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>57</vodostaj>
+<pretok>10.5</pretok>
+<prvi_vv_pretok>82.2</prvi_vv_pretok>
+<drugi_vv_pretok>87.6</drugi_vv_pretok>
+<tretji_vv_pretok>91.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>14.9</temp_vode>
+</postaja>
+<postaja sifra="5910" wgs84_dolzina="14.25507" wgs84_sirina="45.82297" kota_0="444.97">
+<reka>Malenščica</reka>
+<merilno_mesto>Malni</merilno_mesto>
+<ime_kratko>Malenščica - Malni</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>124</vodostaj>
+<pretok>7.06</pretok>
+<prvi_vv_pretok>10.5</prvi_vv_pretok>
+<drugi_vv_pretok>10.9</drugi_vv_pretok>
+<tretji_vv_pretok>12.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>15.1</temp_vode>
+</postaja>
+<postaja sifra="5940" wgs84_dolzina="14.2047" wgs84_sirina="45.91089" kota_0="481.34">
+<reka>Logaščica</reka>
+<merilno_mesto>Logatec</merilno_mesto>
+<ime_kratko>Logaščica - Logatec</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>121</vodostaj>
+<pretok>0.031</pretok>
+<prvi_vv_pretok>8.2</prvi_vv_pretok>
+<drugi_vv_pretok>10.9</drugi_vv_pretok>
+<tretji_vv_pretok>12.7</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>14</temp_vode>
+</postaja>
+<postaja sifra="6020" wgs84_dolzina="14.69315" wgs84_sirina="46.41961" kota_0="636.05">
+<reka>Savinja</reka>
+<merilno_mesto>Solčava</merilno_mesto>
+<ime_kratko>Savinja - Solčava I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>82</vodostaj>
+<pretok>1.44</pretok>
+<prvi_vv_pretok>56.0</prvi_vv_pretok>
+<drugi_vv_pretok>66.0</drugi_vv_pretok>
+<tretji_vv_pretok>100.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>8.8</temp_vode>
+</postaja>
+<postaja sifra="6060" wgs84_dolzina="14.95282" wgs84_sirina="46.32152" kota_0="337.03">
+<reka>Savinja</reka>
+<merilno_mesto>Nazarje</merilno_mesto>
+<ime_kratko>Savinja - Nazarje</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>49</vodostaj>
+<pretok>7.25</pretok>
+<prvi_vv_pretok>310.0</prvi_vv_pretok>
+<drugi_vv_pretok>420.0</drugi_vv_pretok>
+<tretji_vv_pretok>530.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>14.8</temp_vode>
+</postaja>
+<postaja sifra="6068" wgs84_dolzina="15.00447" wgs84_sirina="46.32636" kota_0="313.62">
+<reka>Savinja</reka>
+<merilno_mesto>Letuš</merilno_mesto>
+<ime_kratko>Savinja - Letuš I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>75</vodostaj>
+<pretok/>
+<prvi_vv_pretok>360.0</prvi_vv_pretok>
+<drugi_vv_pretok>450.0</drugi_vv_pretok>
+<tretji_vv_pretok>580.0</tretji_vv_pretok>
+<pretok_znacilni/>
+<temp_vode>15.3</temp_vode>
+</postaja>
+<postaja sifra="6120" wgs84_dolzina="15.22048" wgs84_sirina="46.23332" kota_0="238.15">
+<reka>Savinja</reka>
+<merilno_mesto>Medlog</merilno_mesto>
+<ime_kratko>Savinja - Medlog</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>135</vodostaj>
+<prvi_vv_vodostaj>385</prvi_vv_vodostaj>
+<drugi_vv_vodostaj>463</drugi_vv_vodostaj>
+<tretji_vv_vodostaj>532</tretji_vv_vodostaj>
+<vodostaj_znacilni>mali vodostaj</vodostaj_znacilni>
+<pretok/>
+<temp_vode>18.2</temp_vode>
+</postaja>
+<postaja sifra="6140" wgs84_dolzina="15.26066" wgs84_sirina="46.22771" kota_0="230.27">
+<reka>Savinja</reka>
+<merilno_mesto>Celje II - brv</merilno_mesto>
+<ime_kratko>Savinja - Celje II - brv</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>100</vodostaj>
+<pretok>10.2</pretok>
+<prvi_vv_pretok>480.0</prvi_vv_pretok>
+<drugi_vv_pretok>812.0</drugi_vv_pretok>
+<tretji_vv_pretok>1034.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>18.1</temp_vode>
+</postaja>
+<postaja sifra="6200" wgs84_dolzina="15.23374" wgs84_sirina="46.15392" kota_0="215.07">
+<reka>Savinja</reka>
+<merilno_mesto>Laško</merilno_mesto>
+<ime_kratko>Savinja - Laško I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>83</vodostaj>
+<pretok>12</pretok>
+<prvi_vv_pretok>470.0</prvi_vv_pretok>
+<drugi_vv_pretok>854.0</drugi_vv_pretok>
+<tretji_vv_pretok>1193.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>19</temp_vode>
+</postaja>
+<postaja sifra="6210" wgs84_dolzina="15.19233" wgs84_sirina="46.09199" kota_0="189.53">
+<reka>Savinja</reka>
+<merilno_mesto>Veliko Širje</merilno_mesto>
+<ime_kratko>Savinja - Veliko Širje I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>176</vodostaj>
+<pretok>15.6</pretok>
+<prvi_vv_pretok>560.0</prvi_vv_pretok>
+<drugi_vv_pretok>907.0</drugi_vv_pretok>
+<tretji_vv_pretok>1284.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>21.7</temp_vode>
+</postaja>
+<postaja sifra="6220" wgs84_dolzina="14.74594" wgs84_sirina="46.35428" kota_0="509.97">
+<reka>Lučnica</reka>
+<merilno_mesto>Luče</merilno_mesto>
+<ime_kratko>Lučnica - Luče</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>84</vodostaj>
+<pretok>0.587</pretok>
+<prvi_vv_pretok>60.0</prvi_vv_pretok>
+<drugi_vv_pretok>72.0</drugi_vv_pretok>
+<tretji_vv_pretok>90.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>10.5</temp_vode>
+</postaja>
+<postaja sifra="6240" wgs84_dolzina="14.89924" wgs84_sirina="46.28497" kota_0="365.69">
+<reka>Dreta</reka>
+<merilno_mesto>Kraše</merilno_mesto>
+<ime_kratko>Dreta - Kraše</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>63</vodostaj>
+<pretok>1.16</pretok>
+<prvi_vv_pretok>110.0</prvi_vv_pretok>
+<drugi_vv_pretok>150.0</drugi_vv_pretok>
+<tretji_vv_pretok>225.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>12.1</temp_vode>
+</postaja>
+<postaja sifra="6280" wgs84_dolzina="15.11838" wgs84_sirina="46.36179" kota_0="389.09">
+<reka>Paka</reka>
+<merilno_mesto>Velenje</merilno_mesto>
+<ime_kratko>Paka - Velenje</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>100</vodostaj>
+<pretok>0.345</pretok>
+<prvi_vv_pretok>21.0</prvi_vv_pretok>
+<drugi_vv_pretok>35.0</drugi_vv_pretok>
+<tretji_vv_pretok>60.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>13.4</temp_vode>
+</postaja>
+<postaja sifra="6300" wgs84_dolzina="15.04844" wgs84_sirina="46.37575" kota_0="353.03">
+<reka>Paka</reka>
+<merilno_mesto>Šoštanj</merilno_mesto>
+<ime_kratko>Paka - Šoštanj</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>158</vodostaj>
+<pretok>0.727</pretok>
+<prvi_vv_pretok>45.0</prvi_vv_pretok>
+<drugi_vv_pretok>81.0</drugi_vv_pretok>
+<tretji_vv_pretok>90.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>18.4</temp_vode>
+</postaja>
+<postaja sifra="6340" wgs84_dolzina="15.03832" wgs84_sirina="46.32113" kota_0="305.01">
+<reka>Paka</reka>
+<merilno_mesto>Rečica</merilno_mesto>
+<ime_kratko>Paka - Rečica</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>85</vodostaj>
+<pretok>1.32</pretok>
+<prvi_vv_pretok>83.0</prvi_vv_pretok>
+<drugi_vv_pretok>167.0</drugi_vv_pretok>
+<tretji_vv_pretok>210.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>17.8</temp_vode>
+</postaja>
+<postaja sifra="6415" wgs84_dolzina="15.07794" wgs84_sirina="46.3931" kota_0="385.6">
+<reka>Velunja</reka>
+<merilno_mesto>Gaberke</merilno_mesto>
+<ime_kratko>Velunja - Gaberke</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>119</vodostaj>
+<pretok>0.151</pretok>
+<prvi_vv_pretok>16.0</prvi_vv_pretok>
+<drugi_vv_pretok>27.0</drugi_vv_pretok>
+<tretji_vv_pretok>45.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>13.8</temp_vode>
+</postaja>
+<postaja sifra="6550" wgs84_dolzina="15.09294" wgs84_sirina="46.23922" kota_0="268.01">
+<reka>Bolska</reka>
+<merilno_mesto>Dolenja vas</merilno_mesto>
+<ime_kratko>Bolska - Dolenja vas II</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>80</vodostaj>
+<pretok>1.27</pretok>
+<prvi_vv_pretok>70.0</prvi_vv_pretok>
+<drugi_vv_pretok>120.0</drugi_vv_pretok>
+<tretji_vv_pretok>170.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>15.9</temp_vode>
+</postaja>
+<postaja sifra="6630" wgs84_dolzina="15.21997" wgs84_sirina="46.24382" kota_0="241.02">
+<reka>Ložnica</reka>
+<merilno_mesto>Levec</merilno_mesto>
+<ime_kratko>Ložnica - Levec I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>47</vodostaj>
+<pretok>0.244</pretok>
+<prvi_vv_pretok>50.0</prvi_vv_pretok>
+<drugi_vv_pretok>80.0</drugi_vv_pretok>
+<tretji_vv_pretok>120.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>18.9</temp_vode>
+</postaja>
+<postaja sifra="6691" wgs84_dolzina="15.42275" wgs84_sirina="46.19983" kota_0="263.27">
+<reka>Voglajna</reka>
+<merilno_mesto>Črnolica</merilno_mesto>
+<ime_kratko>Voglajna - Črnolica I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>48</vodostaj>
+<pretok>0.174</pretok>
+<prvi_vv_pretok>44.0</prvi_vv_pretok>
+<drugi_vv_pretok>56.0</drugi_vv_pretok>
+<tretji_vv_pretok>70.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>17.4</temp_vode>
+</postaja>
+<postaja sifra="6720" wgs84_dolzina="15.28326" wgs84_sirina="46.23205" kota_0="234.41">
+<reka>Voglajna</reka>
+<merilno_mesto>Celje</merilno_mesto>
+<ime_kratko>Voglajna - Celje II</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>98</vodostaj>
+<pretok>0.506</pretok>
+<prvi_vv_pretok>66.0</prvi_vv_pretok>
+<drugi_vv_pretok>97.0</drugi_vv_pretok>
+<tretji_vv_pretok>132.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>19</temp_vode>
+</postaja>
+<postaja sifra="6770" wgs84_dolzina="15.27924" wgs84_sirina="46.31413" kota_0="285.97">
+<reka>Hudinja</reka>
+<merilno_mesto>Polže</merilno_mesto>
+<ime_kratko>Hudinja - Polže</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>28</vodostaj>
+<pretok>0.453</pretok>
+<prvi_vv_pretok>30.0</prvi_vv_pretok>
+<drugi_vv_pretok>42.0</drugi_vv_pretok>
+<tretji_vv_pretok>93.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>14.4</temp_vode>
+</postaja>
+<postaja sifra="6790" wgs84_dolzina="15.28681" wgs84_sirina="46.26477" kota_0="242.48">
+<reka>Hudinja</reka>
+<merilno_mesto>Škofja vas</merilno_mesto>
+<ime_kratko>Hudinja - Škofja vas</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>28</vodostaj>
+<pretok>0.859</pretok>
+<prvi_vv_pretok>59.0</prvi_vv_pretok>
+<drugi_vv_pretok>84.0</drugi_vv_pretok>
+<tretji_vv_pretok>132.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>16.6</temp_vode>
+</postaja>
+<postaja sifra="6835" wgs84_dolzina="15.2336" wgs84_sirina="46.10696" kota_0="212.01">
+<reka>Gračnica</reka>
+<merilno_mesto>Vodiško</merilno_mesto>
+<ime_kratko>Gračnica - Vodiško I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>129</vodostaj>
+<pretok>0.378</pretok>
+<prvi_vv_pretok>48.0</prvi_vv_pretok>
+<drugi_vv_pretok>84.0</drugi_vv_pretok>
+<tretji_vv_pretok>108.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode/>
+</postaja>
+<postaja sifra="7029" wgs84_dolzina="14.78503" wgs84_sirina="45.87674" kota_0="259.19">
+<reka>Krka</reka>
+<merilno_mesto>Podbukovje</merilno_mesto>
+<ime_kratko>Krka - Podbukovje I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>35</vodostaj>
+<pretok>2.68</pretok>
+<prvi_vv_pretok>40.0</prvi_vv_pretok>
+<drugi_vv_pretok>75.0</drugi_vv_pretok>
+<tretji_vv_pretok>110.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>11.9</temp_vode>
+</postaja>
+<postaja sifra="7060" wgs84_dolzina="15.01915" wgs84_sirina="45.77936" kota_0="167.6">
+<reka>Krka</reka>
+<merilno_mesto>Soteska</merilno_mesto>
+<ime_kratko>Krka - Soteska</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>130</vodostaj>
+<pretok>10.8</pretok>
+<prvi_vv_pretok>120.0</prvi_vv_pretok>
+<drugi_vv_pretok>160.0</drugi_vv_pretok>
+<tretji_vv_pretok>220.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>13.5</temp_vode>
+</postaja>
+<postaja sifra="7110" wgs84_dolzina="15.28558" wgs84_sirina="45.86758" kota_0="148.85">
+<reka>Krka</reka>
+<merilno_mesto>Gorenja Gomila</merilno_mesto>
+<ime_kratko>Krka - Gorenja Gomila</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>58</vodostaj>
+<pretok>18.1</pretok>
+<prvi_vv_pretok>180.0</prvi_vv_pretok>
+<drugi_vv_pretok>250.0</drugi_vv_pretok>
+<tretji_vv_pretok>350.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>17.8</temp_vode>
+</postaja>
+<postaja sifra="7160" wgs84_dolzina="15.45535" wgs84_sirina="45.86477" kota_0="146.31">
+<reka>Krka</reka>
+<merilno_mesto>Podbočje</merilno_mesto>
+<ime_kratko>Krka - Podbočje</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>82</vodostaj>
+<pretok>24.9</pretok>
+<prvi_vv_pretok>200.0</prvi_vv_pretok>
+<drugi_vv_pretok>300.0</drugi_vv_pretok>
+<tretji_vv_pretok>380.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>19.9</temp_vode>
+</postaja>
+<postaja sifra="7200" wgs84_dolzina="14.67325" wgs84_sirina="45.94019" kota_0="324.05">
+<reka>Grosupeljščica</reka>
+<merilno_mesto>Mlačevo</merilno_mesto>
+<ime_kratko>Grosupeljščica - Mlačevo</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>102</vodostaj>
+<pretok>0.35</pretok>
+<prvi_vv_pretok>6.0</prvi_vv_pretok>
+<drugi_vv_pretok>7.4</drugi_vv_pretok>
+<tretji_vv_pretok>8.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>13.7</temp_vode>
+</postaja>
+<postaja sifra="7220" wgs84_dolzina="14.6287" wgs84_sirina="45.85179" kota_0="473.4">
+<reka>Rašica</reka>
+<merilno_mesto>Rašica</merilno_mesto>
+<ime_kratko>Rašica - Rašica</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>79</vodostaj>
+<pretok>1.19</pretok>
+<prvi_vv_pretok>31.0</prvi_vv_pretok>
+<drugi_vv_pretok>39.0</drugi_vv_pretok>
+<tretji_vv_pretok>47.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>14.1</temp_vode>
+</postaja>
+<postaja sifra="7230" wgs84_dolzina="14.76855" wgs84_sirina="45.88677" kota_0="268.09">
+<reka>Poltarica</reka>
+<merilno_mesto>Gradiček</merilno_mesto>
+<ime_kratko>Poltarica - Gradiček</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj/>
+<prvi_vv_vodostaj/>
+<drugi_vv_vodostaj/>
+<tretji_vv_vodostaj/>
+<vodostaj_znacilni/>
+<pretok/>
+<temp_vode/>
+</postaja>
+<postaja sifra="7235" wgs84_dolzina="14.80037" wgs84_sirina="45.93614" kota_0="322.06">
+<reka>Višnjica</reka>
+<merilno_mesto>Ivančna Gorica</merilno_mesto>
+<ime_kratko>Višnjica - Ivančna Gorica</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>73</vodostaj>
+<pretok>0.453</pretok>
+<prvi_vv_pretok>9.0</prvi_vv_pretok>
+<drugi_vv_pretok>20.0</drugi_vv_pretok>
+<tretji_vv_pretok>34.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>14.2</temp_vode>
+</postaja>
+<postaja sifra="7245" wgs84_dolzina="14.82045" wgs84_sirina="45.85654" kota_0="244.44">
+<reka>Globočec</reka>
+<merilno_mesto>Fužina</merilno_mesto>
+<ime_kratko>Globočec - Fužina</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj/>
+<prvi_vv_vodostaj/>
+<drugi_vv_vodostaj/>
+<tretji_vv_vodostaj/>
+<vodostaj_znacilni/>
+<pretok/>
+<temp_vode/>
+</postaja>
+<postaja sifra="7272" wgs84_dolzina="15.03545" wgs84_sirina="45.75961" kota_0="167.89">
+<reka>Radešca</reka>
+<merilno_mesto>Meniška vas</merilno_mesto>
+<ime_kratko>Radešca - Meniška vas I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>106</vodostaj>
+<pretok>2.43</pretok>
+<prvi_vv_pretok>34.0</prvi_vv_pretok>
+<drugi_vv_pretok>47.0</drugi_vv_pretok>
+<tretji_vv_pretok>55.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>10.4</temp_vode>
+</postaja>
+<postaja sifra="7308" wgs84_dolzina="14.99022" wgs84_sirina="45.90766" kota_0="269.22">
+<reka>Temenica</reka>
+<merilno_mesto>Rožni Vrh</merilno_mesto>
+<ime_kratko>Temenica - Rožni Vrh I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>129</vodostaj>
+<pretok>0.228</pretok>
+<prvi_vv_pretok>7.0</prvi_vv_pretok>
+<drugi_vv_pretok>13.0</drugi_vv_pretok>
+<tretji_vv_pretok>15.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>16.3</temp_vode>
+</postaja>
+<postaja sifra="7340" wgs84_dolzina="15.10871" wgs84_sirina="45.81475" kota_0="163.78">
+<reka>Prečna</reka>
+<merilno_mesto>Prečna</merilno_mesto>
+<ime_kratko>Prečna - Prečna</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>115</vodostaj>
+<pretok>2.86</pretok>
+<prvi_vv_pretok>19.5</prvi_vv_pretok>
+<drugi_vv_pretok>38.0</drugi_vv_pretok>
+<tretji_vv_pretok>45.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>11.9</temp_vode>
+</postaja>
+<postaja sifra="7350" wgs84_dolzina="15.20269" wgs84_sirina="45.76697" kota_0="190.7">
+<reka>Težka voda</reka>
+<merilno_mesto>Stopiče</merilno_mesto>
+<ime_kratko>Težka voda - Stopiče</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj/>
+<prvi_vv_vodostaj/>
+<drugi_vv_vodostaj/>
+<tretji_vv_vodostaj/>
+<vodostaj_znacilni/>
+<pretok/>
+<temp_vode/>
+</postaja>
+<postaja sifra="7380" wgs84_dolzina="15.29181" wgs84_sirina="45.90755" kota_0="159.68">
+<reka>Radulja</reka>
+<merilno_mesto>Škocjan</merilno_mesto>
+<ime_kratko>Radulja - Škocjan</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>74</vodostaj>
+<pretok>0.55</pretok>
+<prvi_vv_pretok>40.0</prvi_vv_pretok>
+<drugi_vv_pretok>47.0</drugi_vv_pretok>
+<tretji_vv_pretok>55.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>16.8</temp_vode>
+</postaja>
+<postaja sifra="7409" wgs84_dolzina="15.43334" wgs84_sirina="45.83865" kota_0="156.25">
+<reka>Studena</reka>
+<merilno_mesto>Globočice pri Kostanjevici</merilno_mesto>
+<ime_kratko>Studena - Globočice pri Kostanjevici I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj/>
+<prvi_vv_vodostaj/>
+<drugi_vv_vodostaj/>
+<tretji_vv_vodostaj/>
+<vodostaj_znacilni/>
+<pretok/>
+<temp_vode/>
+</postaja>
+<postaja sifra="7440" wgs84_dolzina="14.63768" wgs84_sirina="45.76299" kota_0="532.05">
+<reka>Bistrica</reka>
+<merilno_mesto>Sodražica</merilno_mesto>
+<ime_kratko>Bistrica - Sodražica</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>97</vodostaj>
+<pretok>0.375</pretok>
+<prvi_vv_pretok>16.0</prvi_vv_pretok>
+<drugi_vv_pretok>21.0</drugi_vv_pretok>
+<tretji_vv_pretok>28.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>13.2</temp_vode>
+</postaja>
+<postaja sifra="7488" wgs84_dolzina="14.73777" wgs84_sirina="45.71229" kota_0="482.15">
+<reka>Ribnica</reka>
+<merilno_mesto>Prigorica</merilno_mesto>
+<ime_kratko>Ribnica - Prigorica I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>52</vodostaj>
+<pretok>0.513</pretok>
+<prvi_vv_pretok>14.0</prvi_vv_pretok>
+<drugi_vv_pretok>16.0</drugi_vv_pretok>
+<tretji_vv_pretok>18.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>13.9</temp_vode>
+</postaja>
+<postaja sifra="7498" wgs84_dolzina="14.74475" wgs84_sirina="45.69461" kota_0="477.4">
+<reka>Rakitnica</reka>
+<merilno_mesto>Blate</merilno_mesto>
+<ime_kratko>Rakitnica - Blate</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>112</vodostaj>
+<prvi_vv_vodostaj>370</prvi_vv_vodostaj>
+<drugi_vv_vodostaj>430</drugi_vv_vodostaj>
+<tretji_vv_vodostaj>520</tretji_vv_vodostaj>
+<vodostaj_znacilni>mali vodostaj</vodostaj_znacilni>
+<temp_vode>8.1</temp_vode>
+</postaja>
+<postaja sifra="8031" wgs84_dolzina="13.59864" wgs84_sirina="46.33698" kota_0="401.57">
+<reka>Soča</reka>
+<merilno_mesto>Kršovec</merilno_mesto>
+<ime_kratko>Soča - Kršovec I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>110</vodostaj>
+<pretok>10</pretok>
+<prvi_vv_pretok>180.0</prvi_vv_pretok>
+<drugi_vv_pretok>320.0</drugi_vv_pretok>
+<tretji_vv_pretok>440.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>8.2</temp_vode>
+</postaja>
+<postaja sifra="8060" wgs84_dolzina="13.49454" wgs84_sirina="46.31484" kota_0="339.3">
+<reka>Soča</reka>
+<merilno_mesto>Log Čezsoški</merilno_mesto>
+<ime_kratko>Soča - Log Čezsoški</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>121</vodostaj>
+<pretok>24.9</pretok>
+<prvi_vv_pretok>335.0</prvi_vv_pretok>
+<drugi_vv_pretok>450.0</drugi_vv_pretok>
+<tretji_vv_pretok>500.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>9</temp_vode>
+</postaja>
+<postaja sifra="8080" wgs84_dolzina="13.58641" wgs84_sirina="46.24748" kota_0="194.94">
+<reka>Soča</reka>
+<merilno_mesto>Kobarid</merilno_mesto>
+<ime_kratko>Soča - Kobarid I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>102</vodostaj>
+<pretok>33.6</pretok>
+<prvi_vv_pretok>400.0</prvi_vv_pretok>
+<drugi_vv_pretok>600.0</drugi_vv_pretok>
+<tretji_vv_pretok>750.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>9.3</temp_vode>
+</postaja>
+<postaja sifra="8180" wgs84_dolzina="13.65525" wgs84_sirina="45.98161" kota_0="53.77">
+<reka>Soča</reka>
+<merilno_mesto>Solkan</merilno_mesto>
+<ime_kratko>Soča - Solkan I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>296</vodostaj>
+<pretok>117</pretok>
+<prvi_vv_pretok>1500.0</prvi_vv_pretok>
+<drugi_vv_pretok>1700.0</drugi_vv_pretok>
+<tretji_vv_pretok>1900.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>13.4</temp_vode>
+</postaja>
+<postaja sifra="8240" wgs84_dolzina="13.57553" wgs84_sirina="46.34144" kota_0="404.613">
+<reka>Koritnica</reka>
+<merilno_mesto>Kal-Koritnica</merilno_mesto>
+<ime_kratko>Koritnica - Kal-Koritnica</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>124</vodostaj>
+<pretok>6.65</pretok>
+<prvi_vv_pretok>50.0</prvi_vv_pretok>
+<drugi_vv_pretok/>
+<tretji_vv_pretok/>
+<pretok_znacilni>!! brez neg. znacilnih vrednosti !!</pretok_znacilni>
+<temp_vode>8.6</temp_vode>
+</postaja>
+<postaja sifra="8270" wgs84_dolzina="13.47772" wgs84_sirina="46.30982" kota_0="341.56">
+<reka>Učja</reka>
+<merilno_mesto>Žaga</merilno_mesto>
+<ime_kratko>Učja - Žaga</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>112</vodostaj>
+<pretok>1.36</pretok>
+<prvi_vv_pretok>110.0</prvi_vv_pretok>
+<drugi_vv_pretok>175.0</drugi_vv_pretok>
+<tretji_vv_pretok>235.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+</postaja>
+<postaja sifra="8332" wgs84_dolzina="13.74058" wgs84_sirina="46.18404" kota_0="161.43">
+<reka>Tolminka</reka>
+<merilno_mesto>Tolmin</merilno_mesto>
+<ime_kratko>Tolminka - Tolmin I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>87</vodostaj>
+<pretok>3.55</pretok>
+<prvi_vv_pretok>105.0</prvi_vv_pretok>
+<drugi_vv_pretok>135.0</drugi_vv_pretok>
+<tretji_vv_pretok>165.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>8.7</temp_vode>
+</postaja>
+<postaja sifra="8350" wgs84_dolzina="14.03069" wgs84_sirina="45.98681" kota_0="327.05">
+<reka>Idrijca</reka>
+<merilno_mesto>Podroteja</merilno_mesto>
+<ime_kratko>Idrijca - Podroteja I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>74</vodostaj>
+<pretok>1.91</pretok>
+<prvi_vv_pretok>200.0</prvi_vv_pretok>
+<drugi_vv_pretok>320.0</drugi_vv_pretok>
+<tretji_vv_pretok>370.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>9.2</temp_vode>
+</postaja>
+<postaja sifra="8351" wgs84_dolzina="14.03022" wgs84_sirina="45.98696" kota_0="339.51">
+<reka>Idrijca-kanal</reka>
+<merilno_mesto>Podroteja</merilno_mesto>
+<ime_kratko>Idrijca-kanal - Podroteja</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>89</vodostaj>
+<pretok>0.713</pretok>
+<prvi_vv_pretok>2.5</prvi_vv_pretok>
+<drugi_vv_pretok>2.8</drugi_vv_pretok>
+<tretji_vv_pretok>3.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>12.8</temp_vode>
+</postaja>
+<postaja sifra="8450" wgs84_dolzina="13.79371" wgs84_sirina="46.12831" kota_0="160.86">
+<reka>Idrijca</reka>
+<merilno_mesto>Hotešk</merilno_mesto>
+<ime_kratko>Idrijca - Hotešk</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>49</vodostaj>
+<pretok>8.26</pretok>
+<prvi_vv_pretok>450.0</prvi_vv_pretok>
+<drugi_vv_pretok>760.0</drugi_vv_pretok>
+<tretji_vv_pretok>950.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>14.7</temp_vode>
+</postaja>
+<postaja sifra="8453" wgs84_dolzina="14.02972" wgs84_sirina="45.98598" kota_0="328.99">
+<reka>Podroteja</reka>
+<merilno_mesto>Podroteja</merilno_mesto>
+<ime_kratko>Podroteja - Podroteja</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj/>
+<prvi_vv_vodostaj/>
+<drugi_vv_vodostaj/>
+<tretji_vv_vodostaj/>
+<vodostaj_znacilni/>
+<temp_vode/>
+</postaja>
+<postaja sifra="8454" wgs84_dolzina="13.97876" wgs84_sirina="46.12105" kota_0="295.96">
+<reka>Cerknica</reka>
+<merilno_mesto>Cerkno</merilno_mesto>
+<ime_kratko>Cerknica - Cerkno III</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>145</vodostaj>
+<pretok>1.03</pretok>
+<prvi_vv_pretok>25.0</prvi_vv_pretok>
+<drugi_vv_pretok>41.0</drugi_vv_pretok>
+<tretji_vv_pretok>65.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>13.3</temp_vode>
+</postaja>
+<postaja sifra="8478" wgs84_dolzina="13.83202" wgs84_sirina="46.09386" kota_0="187.18">
+<reka>Trebuša</reka>
+<merilno_mesto>Dolenja Trebuša</merilno_mesto>
+<ime_kratko>Trebuša - Dolenja Trebuša I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>57</vodostaj>
+<pretok>0.981</pretok>
+<prvi_vv_pretok>65.0</prvi_vv_pretok>
+<drugi_vv_pretok>110.0</drugi_vv_pretok>
+<tretji_vv_pretok>135.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>12.6</temp_vode>
+</postaja>
+<postaja sifra="8500" wgs84_dolzina="13.77555" wgs84_sirina="46.15559" kota_0="164.24">
+<reka>Bača</reka>
+<merilno_mesto>Bača pri Modreju</merilno_mesto>
+<ime_kratko>Bača - Bača pri Modreju</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>57</vodostaj>
+<pretok>3.07</pretok>
+<prvi_vv_pretok>160.0</prvi_vv_pretok>
+<drugi_vv_pretok>190.0</drugi_vv_pretok>
+<tretji_vv_pretok>220.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>12.7</temp_vode>
+</postaja>
+<postaja sifra="8545" wgs84_dolzina="13.63403" wgs84_sirina="45.95285" kota_0="84.08">
+<reka>Koren</reka>
+<merilno_mesto>Nova Gorica</merilno_mesto>
+<ime_kratko>Koren - Nova Gorica I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>92</vodostaj>
+<pretok>0.02</pretok>
+<prvi_vv_pretok>9.4</prvi_vv_pretok>
+<drugi_vv_pretok>10.8</drugi_vv_pretok>
+<tretji_vv_pretok>12.3</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>18.2</temp_vode>
+</postaja>
+<postaja sifra="8561" wgs84_dolzina="13.96108" wgs84_sirina="45.84218" kota_0="96.39">
+<reka>Vipava</reka>
+<merilno_mesto>Vipava</merilno_mesto>
+<ime_kratko>Vipava - Vipava II</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>21</vodostaj>
+<pretok>1.59</pretok>
+<prvi_vv_pretok>52.0</prvi_vv_pretok>
+<drugi_vv_pretok>70.0</drugi_vv_pretok>
+<tretji_vv_pretok>80.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>9.7</temp_vode>
+</postaja>
+<postaja sifra="8565" wgs84_dolzina="13.90138" wgs84_sirina="45.86621" kota_0="81.6">
+<reka>Vipava</reka>
+<merilno_mesto>Dolenje</merilno_mesto>
+<ime_kratko>Vipava - Dolenje</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>56</vodostaj>
+<pretok>3.13</pretok>
+<prvi_vv_pretok>150.0</prvi_vv_pretok>
+<drugi_vv_pretok>210.0</drugi_vv_pretok>
+<tretji_vv_pretok>250.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>10.6</temp_vode>
+</postaja>
+<postaja sifra="8591" wgs84_dolzina="13.74373" wgs84_sirina="45.88817" kota_0="54.02">
+<reka>Vipava</reka>
+<merilno_mesto>Zalošče</merilno_mesto>
+<ime_kratko>Vipava - Zalošče</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>68</vodostaj>
+<pretok>3.43</pretok>
+<prvi_vv_pretok>180.0</prvi_vv_pretok>
+<drugi_vv_pretok>250.0</drugi_vv_pretok>
+<tretji_vv_pretok>350.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>13.8</temp_vode>
+</postaja>
+<postaja sifra="8601" wgs84_dolzina="13.6079" wgs84_sirina="45.89408" kota_0="35.98">
+<reka>Vipava</reka>
+<merilno_mesto>Miren</merilno_mesto>
+<ime_kratko>Vipava - Miren I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>91</vodostaj>
+<pretok>4.2</pretok>
+<prvi_vv_pretok>190.0</prvi_vv_pretok>
+<drugi_vv_pretok>280.0</drugi_vv_pretok>
+<tretji_vv_pretok>400.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>18.4</temp_vode>
+</postaja>
+<postaja sifra="8610" wgs84_dolzina="13.97365" wgs84_sirina="45.79906" kota_0="161.26">
+<reka>Močilnik</reka>
+<merilno_mesto>Podnanos</merilno_mesto>
+<ime_kratko>Močilnik - Podnanos</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>22</vodostaj>
+<pretok>0.077</pretok>
+<prvi_vv_pretok>20.0</prvi_vv_pretok>
+<drugi_vv_pretok>23.0</drugi_vv_pretok>
+<tretji_vv_pretok>40.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>16.7</temp_vode>
+</postaja>
+<postaja sifra="8630" wgs84_dolzina="13.90513" wgs84_sirina="45.8938" kota_0="107.46">
+<reka>Hubelj</reka>
+<merilno_mesto>Ajdovščina</merilno_mesto>
+<ime_kratko>Hubelj - Ajdovščina I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>39</vodostaj>
+<pretok>0.803</pretok>
+<prvi_vv_pretok>40.0</prvi_vv_pretok>
+<drugi_vv_pretok>50.0</drugi_vv_pretok>
+<tretji_vv_pretok>57.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>9.2</temp_vode>
+</postaja>
+<postaja sifra="8640" wgs84_dolzina="13.80413" wgs84_sirina="45.85124" kota_0="81.06">
+<reka>Branica</reka>
+<merilno_mesto>Branik</merilno_mesto>
+<ime_kratko>Branica - Branik</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>64</vodostaj>
+<pretok/>
+<prvi_vv_pretok>45.0</prvi_vv_pretok>
+<drugi_vv_pretok>70.0</drugi_vv_pretok>
+<tretji_vv_pretok>90.0</tretji_vv_pretok>
+<pretok_znacilni/>
+<temp_vode>17.7</temp_vode>
+</postaja>
+<postaja sifra="8660" wgs84_dolzina="13.68327" wgs84_sirina="45.89971" kota_0="44.94">
+<reka>Lijak</reka>
+<merilno_mesto>Volčja Draga</merilno_mesto>
+<ime_kratko>Lijak - Volčja Draga</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>104</vodostaj>
+<pretok>0.151</pretok>
+<prvi_vv_pretok>52.0</prvi_vv_pretok>
+<drugi_vv_pretok>85.0</drugi_vv_pretok>
+<tretji_vv_pretok>100.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>18.9</temp_vode>
+</postaja>
+<postaja sifra="8670" wgs84_dolzina="13.72165" wgs84_sirina="45.90496" kota_0="66.27">
+<reka>Vogršček</reka>
+<merilno_mesto>Bezovljak</merilno_mesto>
+<ime_kratko>Vogršček - Bezovljak</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>123</vodostaj>
+<pretok>0.04</pretok>
+<prvi_vv_pretok>11.0</prvi_vv_pretok>
+<drugi_vv_pretok>22.0</drugi_vv_pretok>
+<tretji_vv_pretok>25.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>9.6</temp_vode>
+</postaja>
+<postaja sifra="8680" wgs84_dolzina="13.48993" wgs84_sirina="45.99972" kota_0="73.33">
+<reka>Reka</reka>
+<merilno_mesto>Neblo</merilno_mesto>
+<ime_kratko>Reka - Neblo</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>114</vodostaj>
+<pretok>0.17</pretok>
+<prvi_vv_pretok>75.0</prvi_vv_pretok>
+<drugi_vv_pretok>105.0</drugi_vv_pretok>
+<tretji_vv_pretok>150.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>17.9</temp_vode>
+</postaja>
+<postaja sifra="8690" wgs84_dolzina="13.49741" wgs84_sirina="46.0535" kota_0="100.19">
+<reka>Idrija</reka>
+<merilno_mesto>Golo Brdo</merilno_mesto>
+<ime_kratko>Idrija - Golo Brdo</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj/>
+<pretok/>
+<prvi_vv_pretok>185.0</prvi_vv_pretok>
+<drugi_vv_pretok>225.0</drugi_vv_pretok>
+<tretji_vv_pretok>290.0</tretji_vv_pretok>
+<pretok_znacilni/>
+<temp_vode/>
+</postaja>
+<postaja sifra="8700" wgs84_dolzina="13.50441" wgs84_sirina="46.00279" kota_0="80.36">
+<reka>Kožbanjšček</reka>
+<merilno_mesto>Neblo</merilno_mesto>
+<ime_kratko>Kožbanjšček - Neblo</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>138</vodostaj>
+<pretok/>
+<prvi_vv_pretok>45.0</prvi_vv_pretok>
+<drugi_vv_pretok>70.0</drugi_vv_pretok>
+<tretji_vv_pretok>105.0</tretji_vv_pretok>
+<pretok_znacilni/>
+<temp_vode>18.3</temp_vode>
+</postaja>
+<postaja sifra="8710" wgs84_dolzina="13.50124" wgs84_sirina="46.24855" kota_0="245.98">
+<reka>Nadiža</reka>
+<merilno_mesto>Potoki</merilno_mesto>
+<ime_kratko>Nadiža - Potoki</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>116</vodostaj>
+<pretok>1.32</pretok>
+<prvi_vv_pretok>100.0</prvi_vv_pretok>
+<drugi_vv_pretok>152.0</drugi_vv_pretok>
+<tretji_vv_pretok>230.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>14</temp_vode>
+</postaja>
+<postaja sifra="9015" wgs84_dolzina="14.32309" wgs84_sirina="45.52508" kota_0="422.27">
+<reka>Reka</reka>
+<merilno_mesto>Trpčane</merilno_mesto>
+<ime_kratko>Reka - Trpčane</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>101</vodostaj>
+<pretok>0.277</pretok>
+<prvi_vv_pretok>62.0</prvi_vv_pretok>
+<drugi_vv_pretok>95.0</drugi_vv_pretok>
+<tretji_vv_pretok>130.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode/>
+</postaja>
+<postaja sifra="9030" wgs84_dolzina="14.22643" wgs84_sirina="45.57314" kota_0="393.09">
+<reka>Reka</reka>
+<merilno_mesto>Trnovo</merilno_mesto>
+<ime_kratko>Reka - Trnovo</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>130</vodostaj>
+<pretok>1.52</pretok>
+<prvi_vv_pretok>92.0</prvi_vv_pretok>
+<drugi_vv_pretok>150.0</drugi_vv_pretok>
+<tretji_vv_pretok>200.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>12.9</temp_vode>
+</postaja>
+<postaja sifra="9050" wgs84_dolzina="14.06088" wgs84_sirina="45.65486" kota_0="342.86">
+<reka>Reka</reka>
+<merilno_mesto>Cerkvenikov mlin</merilno_mesto>
+<ime_kratko>Reka - Cerkvenikov mlin</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>158</vodostaj>
+<pretok>2.15</pretok>
+<prvi_vv_pretok>130.0</prvi_vv_pretok>
+<drugi_vv_pretok>220.0</drugi_vv_pretok>
+<tretji_vv_pretok>260.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>16.6</temp_vode>
+</postaja>
+<postaja sifra="9077" wgs84_dolzina="13.99744" wgs84_sirina="45.6655" kota_0="319.03">
+<reka>Reka</reka>
+<merilno_mesto>Škocjan</merilno_mesto>
+<ime_kratko>Reka - Škocjan II</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj/>
+<pretok/>
+<prvi_vv_pretok>185.0</prvi_vv_pretok>
+<drugi_vv_pretok>240.0</drugi_vv_pretok>
+<tretji_vv_pretok>280.0</tretji_vv_pretok>
+<pretok_znacilni/>
+<temp_vode/>
+</postaja>
+<postaja sifra="9100" wgs84_dolzina="14.24171" wgs84_sirina="45.56438" kota_0="396.82">
+<reka>Bistrica</reka>
+<merilno_mesto>Ilirska Bistrica</merilno_mesto>
+<ime_kratko>Bistrica - Ilirska Bistrica</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>99</vodostaj>
+<pretok>0.689</pretok>
+<prvi_vv_pretok>19.0</prvi_vv_pretok>
+<drugi_vv_pretok>26.0</drugi_vv_pretok>
+<tretji_vv_pretok>33.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>9.8</temp_vode>
+</postaja>
+<postaja sifra="9108" wgs84_dolzina="14.22914" wgs84_sirina="45.55126" kota_0="401.14">
+<reka>Molja</reka>
+<merilno_mesto>Zarečica</merilno_mesto>
+<ime_kratko>Molja - Zarečica</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>82</vodostaj>
+<pretok>0.143</pretok>
+<prvi_vv_pretok>40.0</prvi_vv_pretok>
+<drugi_vv_pretok>55.0</drugi_vv_pretok>
+<tretji_vv_pretok>85.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>15.6</temp_vode>
+</postaja>
+<postaja sifra="9210" wgs84_dolzina="13.87618" wgs84_sirina="45.53262" kota_0="61.16">
+<reka>Rižana</reka>
+<merilno_mesto>Kubed</merilno_mesto>
+<ime_kratko>Rižana - Kubed II</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>77</vodostaj>
+<pretok>0.509</pretok>
+<prvi_vv_pretok>40.0</prvi_vv_pretok>
+<drugi_vv_pretok>70.0</drugi_vv_pretok>
+<tretji_vv_pretok>100.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>11.4</temp_vode>
+</postaja>
+<postaja sifra="9240" wgs84_dolzina="13.81323" wgs84_sirina="45.54293" kota_0="18.76">
+<reka>Rižana</reka>
+<merilno_mesto>Dekani</merilno_mesto>
+<ime_kratko>Rižana - Dekani</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>130</vodostaj>
+<pretok/>
+<prvi_vv_pretok>50.0</prvi_vv_pretok>
+<drugi_vv_pretok>90.0</drugi_vv_pretok>
+<tretji_vv_pretok>130.0</tretji_vv_pretok>
+<pretok_znacilni/>
+<temp_vode>13.6</temp_vode>
+</postaja>
+<postaja sifra="9275" wgs84_dolzina="13.74646" wgs84_sirina="45.52498" kota_0="2.18">
+<reka>Badaševica</reka>
+<merilno_mesto>Šalara</merilno_mesto>
+<ime_kratko>Badaševica - Šalara</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>60</vodostaj>
+<pretok>0.08</pretok>
+<prvi_vv_pretok>12.0</prvi_vv_pretok>
+<drugi_vv_pretok>20.0</drugi_vv_pretok>
+<tretji_vv_pretok>32.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode/>
+</postaja>
+<postaja sifra="9280" wgs84_dolzina="13.63885" wgs84_sirina="45.46599" kota_0="3.44">
+<reka>Drnica</reka>
+<merilno_mesto>Pišine</merilno_mesto>
+<ime_kratko>Drnica - Pišine I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>123</vodostaj>
+<pretok>0.081</pretok>
+<prvi_vv_pretok>13.0</prvi_vv_pretok>
+<drugi_vv_pretok>20.0</drugi_vv_pretok>
+<tretji_vv_pretok>45.0</tretji_vv_pretok>
+<pretok_znacilni>običajni pretok</pretok_znacilni>
+<temp_vode>18.2</temp_vode>
+</postaja>
+<postaja sifra="9300" wgs84_dolzina="13.65445" wgs84_sirina="45.45267" kota_0="9.71">
+<reka>Dragonja</reka>
+<merilno_mesto>Podkaštel</merilno_mesto>
+<ime_kratko>Dragonja - Podkaštel I</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>63</vodostaj>
+<pretok>0.061</pretok>
+<prvi_vv_pretok>39.0</prvi_vv_pretok>
+<drugi_vv_pretok>85.0</drugi_vv_pretok>
+<tretji_vv_pretok>120.0</tretji_vv_pretok>
+<pretok_znacilni>mali pretok</pretok_znacilni>
+<temp_vode>19.5</temp_vode>
+</postaja>
+<postaja sifra="9350" wgs84_dolzina="13.72446" wgs84_sirina="45.54811" kota_0="-2.09">
+<reka>Jadransko morje</reka>
+<merilno_mesto>Koper - kapitanija</merilno_mesto>
+<ime_kratko>Jadransko morje - Koper - kapitanija</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<vodostaj>239</vodostaj>
+<prvi_vv_vodostaj>300</prvi_vv_vodostaj>
+<drugi_vv_vodostaj>330</drugi_vv_vodostaj>
+<tretji_vv_vodostaj>350</tretji_vv_vodostaj>
+<vodostaj_znacilni>običajni vodostaj</vodostaj_znacilni>
+<temp_vode>23.5</temp_vode>
+</postaja>
+<postaja sifra="9400" wgs84_dolzina="13.54542" wgs84_sirina="45.55084">
+<reka>Jadransko morje</reka>
+<merilno_mesto>OB Piran</merilno_mesto>
+<ime_kratko>Jadransko morje - OB Piran</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<temp_vode>23.2</temp_vode>
+</postaja>
+<postaja sifra="9410" wgs84_dolzina="13.67129" wgs84_sirina="45.60323">
+<reka>Jadransko morje</reka>
+<merilno_mesto>Debeli Rtič</merilno_mesto>
+<ime_kratko>Jadransko morje - Debeli Rtič</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<temp_vode>22.8</temp_vode>
+</postaja>
+<postaja sifra="9420" wgs84_dolzina="13.53522" wgs84_sirina="45.60157">
+<reka>Jadransko morje</reka>
+<merilno_mesto>Tržaški zaliv</merilno_mesto>
+<ime_kratko>Jadransko morje - Tržaški zaliv</ime_kratko>
+<datum>2025-06-06 08:00</datum>
+<datum_cet>2025-06-06 07:00</datum_cet>
+<temp_vode>23.4</temp_vode>
+</postaja>
+</arsopodatki>

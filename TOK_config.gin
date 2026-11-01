@@ -1,0 +1,34 @@
+# TOKconfig.gin
+# Configuration for TOK model with TOK.py implementation
+
+# Config class parameters
+Config.wandb_project = "TEST"
+Config.station_id = 9210
+Config.seed = 42
+Config.data_path = "./results"
+Config.lr = 0.00003
+Config.batch_size = 64
+Config.epochs = 40
+Config.device = "cuda"  # Use "cpu" if no GPU available
+#Config.run_name = "ARSO_test_good_params"
+Config.variable_names = None  # Set to None for the simplified TOK model
+Config.train_up_to_year = 2020
+Config.meteo_past_hours = 48 # unused parameter - remove
+Config.prediction_hours = 18
+Config.river_history_hours = 12
+Config.num_closest_meteo_stations = 1
+Config.weight_decay = 0.00001
+Config.model_dir='./modelsSweep'
+Config.clip_grad_norm = 0
+Config.min_lr_factor = 0.5
+Config.generate_extra_data_points = True
+
+# TOK model parameters for TOK.py
+TOK.hidden_dim = 256
+TOK.prediction_layer_hidden_dim = 2048
+TOK.dropout_rate = 0.2
+
+# SimpleEncoder parameters
+SimpleEncoder.hidden_dim = 256
+SimpleEncoder.output_dim = 256
+SimpleEncoder.dropout_rate = 0.1
